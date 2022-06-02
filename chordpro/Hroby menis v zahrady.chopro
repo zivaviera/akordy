@@ -5,46 +5,51 @@
 {comment: Intro}
 [G]  [C/G]
 
-{comment: V1}
+{start_of_verse: Verse 1}
 [C/G]Hľadala vo svet[G]e,
 [C/G]nič cenné ne[G]našla som,
 len prázdnu [Em]chválu,
 miznúce [D]bohatstvo,
 ale to mi[C]nestačí.
+{end_of_verse}
 
-{comment: V2}
+{start_of_verse: Verse 2}
 Potom si [G]prišiel,
 dokop[C/G]y si ma [G]dal
 a každú [Em]túžbu si mi na[D]plnil
 v láske Tvo[C]jej.
+{end_of_verse}
 
-{comment: C}
+{start_of_chorus: Chorus}
 Ó, nič [G]nie je lepšie než Ty.
 Nič [Em]nie je lepšie než Ty.
 Pán, nič [C]nie je.
 Nič nie je lepšie než [G]Ty.
+{end_of_chorus}
 
 {comment: Medzihra}
 [G]  [C/G]
 
-{comment: V3}
+{start_of_verse: Verse 3}
 [C/G]Nebojím [G]sa
 svoju [C/G]slabosť uk[G]ázať.
 Moje nedos[Em]tatky,
 Pán poznáš [D]všetky
 a za priateľa ma [C]máš.
+{end_of_verse}
 
-{comment: V4}
+{start_of_verse: Verse 4}
 [C/G]Lebo si Bohom [G]vrchov
 aj [C/G]Bohom  [G]dolín.
 Nie je [Em]miesto,
 kde milosrdenstvo a [D]milosť
 by ma nenašl[C]i.
+{end_of_verse}
 
 {comment: Medzihra}
 [G]  [C/G]
 
-{comment: B}
+{start_of_bridge: Bridge}
 [G]Smútok meníš na radosť.[C][G]
 [G]Dáš krásu aj z popola.[C][G]
 Hanbu meníš na slávu.[C]
@@ -54,3 +59,4 @@ Si je[Em]diný [C]kto mô[G]že.
 [G]Z morí robíš ulice.[C]
 Si je[Em]diný [C]kto mô[G]že.
 Si je[Em]diný [C]kto mô[G]že.
+{end_of_bridge}

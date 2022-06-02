@@ -2,7 +2,7 @@
 {comment: Intro}
 [G#][C#][G#][D#sus][Fm][C#][G#][D#sus][G#]
 
-{start_of_verse}
+{start_of_verse: Verse 1}
 [G#]  Nech Ťa žehná[C#] a chráni. .[G#]..
 Jeho priazeň nad Tebo[D#sus]u je,
 milosť naplní.[Fm]
@@ -19,12 +19,14 @@ AAAA[G#]men
 AAAA[D#]men
 {end_of_chorus}
 
-{start_of_bridge}
+{start_of_bridge: Bridge 1}
 Tvoja [Fm]priazeň nech je na mmne
 a ti[C#]sícoch ďaľších po mne
 Mojich [G#]blízkych, aj ich blízkych
 a nech [D#/G]prúdi, ďalej prúdi
+{end_of_bridge}
 
+{start_of_bridge: Bridge 2}
 Daj mi [Fm]poznať tvoju cestu
 Tvoju [C#]priazeň, buď vždy so mnou
 Aj pre[G#]do mnou a aj za mnou
