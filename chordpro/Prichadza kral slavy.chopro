@@ -1,5 +1,6 @@
 {title: Prichádza kráľ slávy}
 {start_of_verse: Verse 1}
+{comment: Verse 1}
 [E]Prichádza Kráľ slávy
 [C#m]s kráľovstvom na nebesách,
 celá zem[F#m] volá len[B][С#m]
@@ -9,6 +10,7 @@ celá zem[F#m] spieva len[B].
 {end_of_verse}
 
 {start_of_chorus: Chorus}
+{comment: Chorus}
 [G#]Ho - sann[A]a, Ho - s[B]an -[C#m]na
 [A] hosana Bohu v n[C#m]ebi[B]
 [G#]Ho - sann[A]a, Ho - s[B]an -[C#m]na
@@ -16,6 +18,7 @@ celá zem[F#m] spieva len[B].
 {end_of_chorus}
 
 {start_of_verse: Verse 2}
+{comment: Verse 2}
 [E]Povstáva Boží národ
 [C#m]s odvahou a túžbou stáť
 pevne stáť,[F#m] s vierou rásť.[B]
@@ -27,6 +30,7 @@ s modlitb[F#m]ou na kolenách[B].
 {chorus}
 
 {start_of_bridge: Bridge}
+{comment: Bridge}
 [A]Vezmi moje srdce[B]dnes,
 [E]chcem svoj život Tebe dať a[C#m]nechať sa viesť,
 [A]milovať tak ako[B] Ty nás [C#m]ľúbiš.

@@ -3,6 +3,7 @@
 3
 
 {start_of_verse: Verse 1}
+{comment: Verse 1}
 [Bm]Pozývaš ma [C#]do nezn[D]áma
 prec[A]hádzať sa po vo[G]dách
 [Bm]Tam ťa nájdem[C#] napriek [D]búrkam
@@ -10,6 +11,7 @@ zvlá[A]dnem stáť na hlbin[G]ách
 {end_of_verse}
 
 {start_of_bridge: Bridge}
+{comment: Bridge}
 [G]Na Teba [D]Ježiš zavol[A]ám
 [G]ku Tebe [D]svoj zrak upi[A]eram
 [G]len Tvoja n[D]áruč pokoj[A]dá
@@ -20,6 +22,7 @@ Tvoja s[G]om a [A]Ty si [Bm]môj
 [Bm][C#][D][A][Em/G]
 
 {start_of_verse: Verse 2}
+{comment: Verse 2}
 [Bm]Milosťou ma c[C#]hrániš v [D]búrkach
 s is[A]totou ma sprevá[G]dzaš
 [Bm]Napriek môjmu s[C#]trachu z [D]pádov
@@ -27,6 +30,7 @@ vies[A]ť ma smieš, Ty nez[G]lyháš
 {end_of_verse}
 
 {start_of_bridge: Bridge}
+{comment: Bridge}
 [G]Na Teba [D]Ježiš zavol[A]ám
 [G]ku Tebe [D]svoj zrak upi[A]eram
 [G]len Tvoja n[D]áruč pokoj[A]dá
@@ -38,6 +42,7 @@ Tvoja s[G]om a [A]Ty si [Bm]môj
 [Bm][C#][D][A][Em/G]
 
 {start_of_chorus: Chorus 1 3x}
+{comment: Chorus 1 x3}
 [Bm]Zaveď ma na miesta
 [G]bezhraničnej viery
 chcem [D]kráčať nad vodami
@@ -45,6 +50,7 @@ tam [A]kam ma zavoláš
 {end_of_chorus}
 
 {start_of_chorus: Chorus 2}
+{comment: Chorus 2}
 [Bm]Vezmi hlbšie, než sa
 [G]odvažujem prosiť
 len [D]v Tvojej prítomnosti
@@ -52,6 +58,7 @@ moja [A]viera narastá
 {end_of_chorus}
 
 {start_of_chorus: Chorus 3}
+{comment: Chorus 3}
 [G]Zaveď ma na miesta
 [D]bezhraničnej viery
 chcem [A]kráčať nad vodami
