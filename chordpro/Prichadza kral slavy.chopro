@@ -27,7 +27,7 @@ pevne stáť,[F#m] s vierou rásť.[B]
 s modlitb[F#m]ou na kolenách[B].
 {end_of_verse}
 
-{chorus}
+{comment_italic: Chorus}
 
 {start_of_bridge: Bridge}
 {comment: Bridge}
@@ -39,7 +39,7 @@ s modlitb[F#m]ou na kolenách[B].
 [A]veď ma cestou[B] nádeje do [C#m]večnosti.
 {end_of_bridge}
 
-{chorus}
+{comment_italic: Chorus}
 
 {comment: Outro}
 [E/G#]Ho - sann[A]a, Ho - s[B]an -[C#m]na
