@@ -1,6 +1,6 @@
 {title: Prichádza kráľ slávy}
-{start_of_verse: Verse 1}
-{comment: Verse 1}
+{start_of_verse: Sloha 1}
+{comment: Sloha 1}
 [E]Prichádza Kráľ slávy
 [C#m]s kráľovstvom na nebesách,
 celá zem[F#m] volá len[B][С#m]
@@ -9,16 +9,16 @@ celá zem[F#m] volá len[B][С#m]
 celá zem[F#m] spieva len[B].
 {end_of_verse}
 
-{start_of_chorus: Chorus}
-{comment: Chorus}
+{start_of_chorus: Refrén}
+{comment: Refrén}
 [G#]Ho - sann[A]a, Ho - s[B]an -[C#m]na
 [A] hosana Bohu v n[C#m]ebi[B]
 [G#]Ho - sann[A]a, Ho - s[B]an -[C#m]na
 [A]hosana Bohu     v[B] ne - b[C#m]i.
 {end_of_chorus}
 
-{start_of_verse: Verse 2}
-{comment: Verse 2}
+{start_of_verse: Sloha 2}
+{comment: Sloha 2}
 [E]Povstáva Boží národ
 [C#m]s odvahou a túžbou stáť
 pevne stáť,[F#m] s vierou rásť.[B]
@@ -27,7 +27,7 @@ pevne stáť,[F#m] s vierou rásť.[B]
 s modlitb[F#m]ou na kolenách[B].
 {end_of_verse}
 
-{soh}Chorus{eoh}
+{soh}Refrén{eoh}
 
 {start_of_bridge: Bridge}
 {comment: Bridge}
@@ -39,7 +39,7 @@ s modlitb[F#m]ou na kolenách[B].
 [A]veď ma cestou[B] nádeje do [C#m]večnosti.
 {end_of_bridge}
 
-{soh}Chorus{eoh}
+{soh}Refrén{eoh}
 
 {comment: Outro}
 [E/G#]Ho - sann[A]a, Ho - s[B]an -[C#m]na
