@@ -3,14 +3,6 @@
 [F#m][D][A]
 [F#m][D][A]
 
-{start_of_chorus: Refrén}
-{comment: Refrén}
-Pane pr[F#m]íď, Tvoja sl[D]áva [A]svieť
-prosíme,[F#m] zošli s[D]voj oh[A]eñ
-Láska tá[F#m], čo prem[D]áha st[A]rach
-nech mení[F#m] atmosf[D]éru v [A]nás
-{end_of_chorus}
-
 {start_of_verse: Sloha}
 {comment: Sloha}
 Ty, láska [D]úzasn[F#m]á
@@ -18,6 +10,14 @@ zostúpil si na Zem, [D]život [A]dal
 Hrob je prázdny, nádej [D]prišla k [F#m]nám
 smrť si porazil, milosť vl[D]ádu [A]má
 {end_of_verse}
+
+{start_of_chorus: Refrén}
+{comment: Refrén}
+Pane pr[F#m]íď, Tvoja sl[D]áva [A]svieť
+prosíme,[F#m] zošli s[D]voj oh[A]eñ
+Láska tá[F#m], čo prem[D]áha st[A]rach
+nech mení[F#m] atmosf[D]éru v [A]nás
+{end_of_chorus}
 
 {soh}Refrén 1x{eoh}
 
