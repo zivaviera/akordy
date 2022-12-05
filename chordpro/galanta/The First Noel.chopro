@@ -1,21 +1,25 @@
 {title: The First Noel}
 
 {comment: Intro}
-[G] [Bm] [C] [G]
-[C] [G] [Am] [G]
+{sog}
+| G | Bm | C | G |
+| C | G | Am | G |
+{eog}
 
-{sov}
 {comment: Sloha}
-[G] [Bm] [C] [Bm]
-[C] [G] [Am] [G]
-{eov}
+{sog}
+| G | Bm | C | G |
+| C | G | Am | G |
+{eog}
 
-{sob}
-{comment: Bridge}
-[G] [Bm] [C] [Bm]
-[C] [G] [C] [G/B] [Am] [G]
-{eob}
+{comment: Refrén}
+{sog}
+| G | Bm | C | Bm |
+| C | G | C G/B Am G |
+{eog}
 
 {soh}Posledna časť{eoh}
-[G] [Bm] [C] [H7]
-[C] [G] [C] [G/B] [Am] [G]
+{sog}
+| G | Bm | C | B7 |
+| C | G | C G/B Am G |
+{eog}
