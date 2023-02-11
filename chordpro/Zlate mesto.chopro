@@ -1,7 +1,10 @@
 {title: Zlaté mesto}
 
 {comment: Intro}
-[F#m][A][E][Dmaj7][E][F#m]
+{sog}
+| F#m A | E   |
+| Dmaj7 E | F#m   |
+{eog}
 
 {start_of_verse: Sloha 1}
 {comment: Sloha 1}

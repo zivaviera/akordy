@@ -1,7 +1,9 @@
 {title: Emmanuel}
 {comment: Intro}
-[C#m][B/D#][E]     [B/D#]
-[C#m][B/D#][E]
+{sog}
+| C#m | B/D# | E   B/D# |
+| C#m | B/D# | E   |
+{eog}
 
 {start_of_verse: Sloha 1}
 {comment: Sloha 1}
@@ -15,7 +17,7 @@ všetko[C#m] nové si d[B]al.
 {comment: Refrén}
 [F#m] Emmanuel, [B]Kristus [E/G#]Ježiš,
 [A] nikdy ma neopus[B]tíš.
-[F#] Pastier, môj Kráľ, [B]staráš sa [E/G#]o mňa [A]Ty,
+[F#m] Pastier, môj Kráľ, [B]staráš sa [E/G#]o mňa [A]Ty,
  E[B]mma[C#m]nuel.[B/D#]
  {eoc}
 
@@ -30,7 +32,9 @@ Ja kráčam za Tebou.
 {soh}Refrén 2x{eoh}
 
 {comment: Medzihra}
-[B/D#][C#mi][B][A]
+{sog}
+| B/D# C#m | B A |
+{eog}
 
 {sob}
 {comment: Bridge}
