@@ -7,7 +7,6 @@
 {comment: Sloha 1}
 [C]ja sa [G]modlím k te[Am]be, [F]ja sa [C]modlím k t[G]ebe,
 
-
 // [C]medzi anj[Em7]elmi a [Am]cher[Fmaj7]ubmi,
 [C]ja sa [G]modlím k te[C]be. //
 {end_of_verse}
@@ -17,14 +16,15 @@
 [C]ja s[G]tojím pred te[Am]bou, [F]ja st[C]ojím pred te[G]bou,
 
 // [C]medzi anj[Em7]elmi a [Am]cher[Fmaj7]ubmi,
-[C]ja sa [G]modlím k te[C]be. //
+[C]ja [G]stojím pred te[C]bou. //
 {end_of_verse}
 
 {start_of_verse: Sloha 3}
 {comment: Sloha 3}
 [C]jež[G]iš je [Am]pán, [F]jež[C]iš je [G]pán,
-[C]hrajú anj[Em7]eli a c[Am]heru[Fmaj7]bi,
-[C]jež[G]iš je [C]pán.
+
+// [C]hrajú anj[Em7]eli a c[Am]heru[Fmaj7]bi,
+[C]jež[G]iš je [C]pán. //
 {end_of_verse}
 
 {start_of_verse: Sloha4}
