@@ -1,7 +1,6 @@
 {title: Ľúbim ťa Pán}
 {comment: Intro}
-[C]  [F] [C]  [C] [F] [C]
-...   .       ...  .
+[C]
 
 {sov}
 {comment: Verse 1}
@@ -10,13 +9,13 @@ milosť [F]máš čo nezradí[C] ma
 a k[G/B]aždým   [Am7]dňom ty [F]držíš ma v rukách.[Gsus4][G]
 vždy keď ráno sa zo[Am]búdzam[F]
 až pokým zas[C]pí[G/B]m[Am7]
-ja spievať [F]chcem o milo[Gsus4]sti   [G] tvo[C]jej.[F]
+ja spievať [F]chcem o milo[Gsus4]sti   [G] tvo[C]jej.
 {eov}
 
 {soc}
 {comment: Chorus}
-[F]a celý môj život si [C]verný[F]
-[F]a cely môj život si [C]tak dob[G]rý.[F]
+[F]a celý môj život si [C]verný
+[F]a cely môj život si [C]tak dob[G]rý.
 [F]S každým nádychom, čo [C]dáš [G/B]mi      ty[Am7]...
 ja spievať ch[F]cem o milos[G]ti tvoj[C]ej.
 {eoc}
@@ -33,21 +32,20 @@ môj verný pria[C]teľ.[G/B][Am7]
 A navždy sm[F]iem žiť v mi[Gsus4]losti [G]  tvojej.[C]
 {eov}
 
-{soh}Refrén 1x{eoh}
-
 {comment: Bridge}
-[C/E]Áno tvoja [F]dobrota a [G]milosť nájdu [C]ma.
+/: [C/E]Áno tvoja [F]dobrota a [G]milosť nájdu [C]ma.
 [C/E]Áno tvoja [F]dobrota a [G]milost najdu [C]ma,
 
 so všet[C/E]kým, čo mám seba od[F]ovzdám
 a [Gsus]všetko tebe [Am]dám
-[C/E]ano tvoja [F]dobrota a [G]milost najdu [C]ma
-[C/E]ano tvoja [F]dobrota a [G]milost najdu [C]ma
+[C/E]ano tvoja [F]dobrota a [G]milost najdu [C]ma :/
 
-so všet[C/E]kým, čo mám seba od[F]ovzdám
-a [Gsus]všetko tebe [Am]dám
-[C/E]ano tvoja [F]dobrota a [G]milost najdu [C]ma
-[C/E]ano tvoja [F]dobrota a [G]milost najdu [C]ma
-[C/E]ano tvoja [F]dobrota a [G]milost najdu [C]ma
+{soc}
+{comment: Chorus}
+[F]a celý môj život si [C]verný
+[F]a cely môj život si [C]tak dob[G]rý.
+[F]S každým nádychom, čo [C]dáš [G/B]mi      ty[Am7]...
+ja spievať ch[F]cem o milos[G]ti tvoj[C]ej.*
+{eoc}
 
-{soh}Refrén{eoh}
+*Držíme v poslednom refréne

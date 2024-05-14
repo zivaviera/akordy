@@ -1,9 +1,19 @@
 {title: Prichádza kráľ slávy}
+
+{comment: Intro}
+{sog}
+| C#m | E | F#m7 | G#m7 |
+| C#m | E | F#m7 | G#m7 |
+{eog}
+
 {start_of_verse: Sloha 1}
 {comment: Sloha 1}
 [E]Prichádza Kráľ slávy
 [C#m]s kráľovstvom na nebesách,
 celá zem[F#m] volá len[B][С#m]
+
+{start_of_verse: Sloha 2}
+{comment: Sloha 2}
 [E]On svojou vzácnou láskou
 [C#m]očistil nás z našich vín,
 celá zem[F#m] spieva len[B].
@@ -17,34 +27,34 @@ celá zem[F#m] spieva len[B].
 [A]hosana Bohu     v[B] ne - b[C#m]i.
 {end_of_chorus}
 
-{start_of_verse: Sloha 2}
-{comment: Sloha 2}
+{start_of_verse: Sloha 3}
+{comment: Sloha 3}
 [E]Povstáva Boží národ
 [C#m]s odvahou a túžbou stáť
 pevne stáť,[F#m] s vierou rásť.[B]
+{end_of_verse}
+
+{start_of_verse: Sloha 4}
+{comment: Sloha 4}
 [E]Prichádza nová nádej,
 [C#m]prebudenie mŕtvych dní
 s modlitb[F#m]ou na kolenách[B].
 {end_of_verse}
-
-{soh}Refrén{eoh}
 
 {start_of_bridge: Bridge}
 {comment: Bridge}
 [A]Vezmi moje srdce[B]dnes,
 [E]chcem svoj život Tebe dať a[C#m]nechať sa viesť,
 [A]milovať tak ako[B] Ty nás [C#m]ľúbiš.
+
 [A]Zlom mi srdce pre svoj p[B]lán,
 [E]všetko to čo mám iba[C#m]tebe dám,
 [A]veď ma cestou[B] nádeje do [C#m]večnosti.
 {end_of_bridge}
 
-{soh}Refrén{eoh}
-
-{comment: Outro}
+{comment: Refrén}
+/: [E/G#]Ho - sann[A]a, Ho - s[B]an -[C#m]na
+[A] hosana Bohu v n[C#m]ebi[B]
 [E/G#]Ho - sann[A]a, Ho - s[B]an -[C#m]na
-[A]hosana Bohu v [C#m]nebi[B]
-[E/G#]Ho - sann[A]a, Ho - s[B]an -[C#m]na
-[E/G#]Ho - sann[A]a, Ho - s[B]an -[C#m]na
-[E/G#]Ho - sann[A]a, Ho - s[B]an -[C#m]na
+[A]hosana Bohu     v[B] ne - b[C#m]i. :/
 [A]hosana Bohu     v[B] ne - b[E]i.
