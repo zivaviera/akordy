@@ -1,28 +1,30 @@
 {title: Už navždy}
 
-{sov: Sloha 1}
-S ná[C]dejou vstávante
-Tv[D]oje meno my voláme
-Srd[Hm]cia nám nalaď Ty
-[Em]Kam pôjdeš, tam chceme ísť
-{eov}
+{c: Intro}
+[* | ] [C5][* / / / ] [* | ] [D5][* / / / ] [* | ] [H5][* / / / ] [* | ] [E5][* / / / ] [* | ]
+[* | ] [C5][* / / / ] [* | ] [D5][* / / / ] [* | ] [H5][* / / / ] [* | ] [E5][* / / / ] [* | ]
 
-{sov: Sloha 2}
-Ten[C]život, čo si v nás zapálil
-Ni[D]k neskryje, nik neskroti
-Do [Hm]ulíc my pôjdeme
-[Em]A stále žiariť budeme
+{sov: Sloha}
+S ná[C5]dejou vs[D5]távame
+Tv[H5]oje meno my [E5]voláme
+Srd[C5]cia nám [D5]nalaď Ty
+[B5]Kam pôjdeš, tam [E5]chceme ísť
+
+Ten[C5]život, čo si v [D5]nás zapálil
+Ni[H5]k neskryje, nik [E5]neskroti
+Do [C5]ulíc my p[D5]ôjdeme
+[B5]A stále žiariť [E5]budeme
 {eov}
 
 {comment: Medzihra}
-//: Tvoj[C]a láska nezmizne
+//: Tvoj[C]a láska nezmizne 
 [D]Navždy tu s nami je
-[G]Vedie ma v živote
+[Hm]Vedie ma v živote
 [Em]žiari zo mňa každý deň ://
 
 {soc: Refrén}
 //: Vo [C]mne si živý, Ty [D]si živý
-[G]  Už navidy v [Em]mojom vnútri. ://
+[Hm]  Už navidy v [Em]mojom vnútri. ://
 {eoc}
 
 {sob: Bridge}
@@ -35,3 +37,7 @@ už [Hm]navždy v Tvoje[Em]j láske
 Už[C] navždy, už [D]navždy,
 už [Hm]navždy vieme, [Em]že...
 {eob}
+ 
+{c: Outro}
+[* | ] [C5][* / / / ] [* | ] [D5][* / / / ] [* | ] [H5][* / / / ] [* | ] [E5][* / / / ] [* | ]
+[* | ] [C5][* / / / ] [* | ] [D5][* / / / ] [* | ] [H5][* / / / ] [* | ] [E5][* / / / ] [* | ]
