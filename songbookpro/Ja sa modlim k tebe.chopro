@@ -1,36 +1,37 @@
 {title: Ja sa modlím k tebe}
 
 {comment: Intro}
-[C][G][Am][F][G4][G][C]
+[* | ] [C][*/ / ][G] [* | ] [Am][*/ / /] [* | ]
+[* | ] [F][*/ / ][G][G4] [* | ] [C][*/ / /] [* | ]
 
 {start_of_verse: Sloha 1}
-{comment: Sloha 1}
-[C]ja sa [G]modlím k te[Am]be, [F]ja sa [C]modlím k t[G]ebe,
+[C]ja sa [G]modlím k te[Am]be,
+[F]ja sa [C]modlím k t[G]ebe,
 
-// [C]medzi anj[Em7]elmi a [Am]cher[Fmaj7]ubmi,
-[C]ja sa [G]modlím k te[C]be. //
+//: [C]medzi anj[Em7]elmi a [Am]cher[Fmaj7]ubmi,
+[C]ja sa [G]modlím k te[C]be. ://
 {end_of_verse}
 
 {start_of_verse: Sloha 2}
-{comment: Sloha 2}
-[C]ja s[G]tojím pred te[Am]bou, [F]ja st[C]ojím pred te[G]bou,
+[C]ja s[G]tojím pred te[Am]bou,
+[F]ja st[C]ojím pred te[G]bou,
 
-// [C]medzi anj[Em7]elmi a [Am]cher[Fmaj7]ubmi,
-[C]ja [G]stojím pred te[C]bou. //
+//: [C]medzi anj[Em7]elmi a [Am]cher[Fmaj7]ubmi,
+[C]ja [G]stojím pred te[C]bou. ://
 {end_of_verse}
 
 {start_of_verse: Sloha 3}
-{comment: Sloha 3}
-[C]jež[G]iš je [Am]pán, [F]jež[C]iš je [G]pán,
+[C]jež[G]iš je [Am]pán,
+[F]jež[C]iš je [G]pán,
 
-// [C]hrajú anj[Em7]eli a c[Am]heru[Fmaj7]bi,
-[C]jež[G]iš je [C]pán. //
+//: [C]hrajú anj[Em7]eli a c[Am]heru[Fmaj7]bi,
+[C]jež[G]iš je [C]pán. ://
 {end_of_verse}
 
 {start_of_verse: Sloha4}
-{comment: Sloha4}
-[C]svä[G]tý je [Am]pán, [F]svä[C]tý je [G]pán,
+[C]svä[G]tý je [Am]pán,
+[F]svä[C]tý je [G]pán,
 
-// [C]medzi anj[Em7]elmi a [Am]cher[Fmaj7]ubmi,
-[C]svä[G]tý je [C]pán. //
+//: [C]medzi anj[Em7]elmi a [Am]cher[Fmaj7]ubmi,
+[C]svä[G]tý je [C]pán. ://
 {end_of_verse}

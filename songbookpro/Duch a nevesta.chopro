@@ -1,35 +1,27 @@
 {title: Duch a nevesta}
 
-{sov}
-{comment: Sloha}
+{sov: Sloha}
 Duch a neve[Em]sta, dnes volá p[Am7]ríď.
-Počuj ich [D]hlas, [Bm7]tiež povedz [Em7]príď.
+Počuj ich [D]hlas, [Hm7]tiež povedz [Em7]príď.
 A ten kto smäd m[C]á, nech príde t[Am7]iež,
-Vodu život[B]a, zad[B7]armo dostan[Em]eš.[B7][Em]
+Vodu život[H]a, zad[H7]armo dostan[Em]eš.[H7][Em]
 {eov}
 
-{soc}
-{comment: Refrén}
+{soc: Refrén}
 Halleluj[Em]a, tak pána ch[Am7]váľ,
-Halleluj[D]a, t[Bm7]ak pána ch[Em7]váľ,
+Halleluj[D]a, t[Hm7]ak pána ch[Em7]váľ,
 Halleluj[C]a, [Cmaj7]tak pána [Am7]chváľ,
-Halleluj[B]a, tak p[B+5]ána [B7]   [Em]chváľ.
+Halleluj[H]a, tak p[H+5]ána [H7]   [Em]chváľ.
 {eoc}
 
 {comment: Prechod}
 
-{comment: Sloha}
-{sog}
-| Am | Dm7 | G | Cmaj7 |
-| F | Dm7 | E7 | Am |
-{eog}
+{sov: Sloha}
+[* | ] [Am][*/ / /] [* | ] [Dm7][*/ / /] [* | ] [G][*/ / /] [* | ] [Cmaj7][*/ / /] [* | ]
+[* | ] [F][*/ / /] [* | ] [Dm7][*/ / /] [* | ] [E7][*/ / /] [* | ] [Am][*/ / /] [* | ]
+{eov}
 
-{comment: Refrén}
-{sog}
-| Am | Dm7 | G | Cmaj7 |
-| F | Dm7 | E7 | Am |
-{eog}
-
-
-
-
+{sov: Refrén}
+[* | ] [Am][*/ / /] [* | ] [Dm7][*/ / /] [* | ] [G][*/ / /] [* | ] [Cmaj7][*/ / /] [* | ]
+[* | ] [F][*/ / /] [* | ] [Dm7][*/ / /] [* | ] [E7][*/ / /] [* | ] [Am][*/ / /] [* | ]
+{eov}

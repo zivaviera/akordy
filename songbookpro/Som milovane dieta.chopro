@@ -1,10 +1,9 @@
 {title: Som milované dieťa}
 
 {comment: Intro}
-[G][F/G][C/G][G]
+[* | ] [G][* / / / ] [* | ] [F/G][* / / / ] [* | ] [C/G][* / / / ] [* | ] [G][* / / / ] [* | ]
 
 {start_of_verse: Sloha 1}
-{comment: Sloha 1}
 [G]   Cestou kráčal som z[F/G]blúdenou,
 [C/G]sám stratený som [G]bol,
 [G]   šiel som s dušou vy[F/G]prázdnenou,
@@ -12,7 +11,6 @@
 {end_of_verse}
 
 {start_of_verse: Sloha 2}
-{comment: Sloha 2}
 [G]   Mnohým klamstvám som [F/G]uveril,
 [C/G]slzy tiekli mi ako [G]dážď,
 [G]   zrazu však z neba sa [F/G]blesk zjavil,
@@ -20,7 +18,6 @@
 {end_of_verse}
 
 {start_of_chorus: Refrén}
-{comment: Refrén}
 [G]   Chcem vystúpiť až k horám,
 [F]   zo srdca silno zavolám:
 [C]   „som milované die[G]ťa!“
@@ -30,7 +27,6 @@
 {end_of_chorus}
 
 {start_of_verse: Sloha 3}
-{comment: Sloha 3}
 [G]   Cítil som pálenie [F/G]ohňa,
 vyt[C/G]rhol si ma z pl[G]ameňa,
 [G]   práve včas prišiel si [F/G]pre mňa,
@@ -38,7 +34,6 @@ Ty [C]zachránil [G/B]si ma z [Dsus4]pekla. Haleluja!
 {end_of_verse}
 
 {start_of_chorus: Refrén 2}
-{comment: Refrén 2}
 [G]Jé jéé – jé, Ó[F]óó – óóó,
 [C]som milované die[G]ťa!
 [G]jé – jé, Ó[F]óó – óóó,
@@ -46,13 +41,20 @@ Ty [C]zachránil [G/B]si ma z [Dsus4]pekla. Haleluja!
 {end_of_chorus}
 
 {start_of_bridge}
-{comment: Bridge}
-// [G]Nik to viac nezmení, ľúbiš ma,
+//: [G]Nik to viac nezmení, ľúbiš ma,
 [C/G]nik to viac nezmení,
 ja pat[D/G]rím Tebe, [C/G]áno, viem,
-[D/G]nik nás [C/G]neod[G]del[C/G]í! //
+[D/G]nik nás [C/G]neod[G]del[C/G]í! ://
 {end_of_bridge}
 
-{soh}Refrén{eoh}
+{textfill: yellow}
+{textcolor: black}
+Refrén
+{textcolor}
+{textfill}
 
-{soh}Refrén 2{eoh}
+{textfill: yellow}
+{textcolor: black}
+Refrén 2
+{textcolor}
+{textfill}

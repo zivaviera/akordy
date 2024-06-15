@@ -1,32 +1,29 @@
 {title: Zahoď starosti}
 
 {start_of_chorus: Refrén}
-{comment: Refrén}
-// Zahoď sta[A]rosti, zahoď svoje sta[D]rosti,
+//: Zahoď sta[A]rosti, zahoď svoje sta[D]rosti,
 zahoď svoje st[A]arosti,
-pozri aký j[A]e, k[E7]rásny d[A]eň //
+pozri aký j[A]e, k[E7]rásny d[A]eň ://
 {end_of_chorus}
 
 {start_of_verse: Sloha 1}
-{comment: Sloha 1}
 Tak [A]každú svoju starosť uhoď na pána,
 veď [E]každý deň má dosť svojho [A]trápenia.
-{end_of_verse}
 
 Podte k nemu všetci súc obtiažení,
 [E]ťažko pracujúci, aj z[A]ranení.
+{end_of_verse}
+
 {start_of_verse: Sloha 2}
-{comment: Sloha 2}
 [A]U neho vždy nájdeš odpoč[D]inutie,
 [E]posilňuje tvoju vieru a[A]j srdce.
-[A]Keďže mu na tebe veľmi [Bm7]záleží,
+[A]Keďže mu na tebe veľmi [Hm7]záleží,
 [E7]je pre teba stôl už dávno p[A]restretý.
 {end_of_verse}
 
 {start_of_bridge: Bridge}
-{comment: Bridge}
-//  [A]Boh je dobrý, náš [D]Boh je dobrý,
+//: [A]Boh je dobrý, náš [D]Boh je dobrý,
 a já m[A]ám,- všetko,
 [A]pre môj život prichystané,
-[A]Boh j[E7]e dobr[A]ý. //
+[A]Boh j[E7]e dobr[A]ý. ://
 {end_of_bridge}

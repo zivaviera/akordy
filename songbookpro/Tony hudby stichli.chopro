@@ -1,25 +1,23 @@
 {title: Tóny hudby stíchli}
-{comment: Intro}
-[C] [G] [Dm] [G]
 
-{sov}
-{comment: Verse 1}
+{comment: Intro}
+[* | ] [C][* / / / ] [* | ] [G][* / / / ] [* | ] [Dm][* / / / ] [* | ] [G][* / / / ] [* | ]
+
+{sov: Sloha 1}
 [C]tony hudby stichli[G]- zavladol pokoj
 [Dm]a ja prichadzam[G]
 [C]tuzim priniest ti [G]- nieco prevzacne[Dm].
 [Dm]co potesi ta[G]
 {eov}
 
-{sob}
-{comment: Bridge}
+{sob: Bridge}
 [Dm]tuzim dat [C]viac nez piese[G]n - taniejeto, co chces
 [Dm]tuzis po [C]niecom hlbsom[G]
 [Dm]to co je v [C]mojom vnutry[G]- poznas moje srdce
 [Dm]ty vidis d[C]o mna pane[G]
 {eob}
 
-{soc}
-{comment: Chorus}
+{soc: Refrén}
 [C]z mojho srdca tecie [G]prudom chvala
 tecie [Dm]len pre teba
 [F]len pre teba [G]jezis
@@ -28,8 +26,7 @@ vzdavam [Dm]len pre teba
 [F]len preteba[G]jezis
 {eoc}
 
-{sov}
-{comment: Verse 2}
+{sov: Sloha 2}
 [C]kral nekonecny
 nik [G]slovom nevyjadri
 [Dm]aky vzacny si ty[G]
@@ -38,9 +35,17 @@ vš[G]etko co mam tvoje je
 [Dm]kazdy jeden moj dych[G]
 {eov}
 
-{soh}Bridge:{eoh}
+{textfill: yellow}
+{textcolor: black}
+Bridge
+{textcolor}
+{textfill}
 
-{soh}Chorus 2x{eoh}
+{textfill: yellow}
+{textcolor: black}
+Refrén 2x
+{textcolor}
+{textfill}
 
 {sob}
 {comment: Bridge}
@@ -48,4 +53,8 @@ len pre teba, len pre teba ...
 [C]  [G]  [Dm]  [F][G]
 {eob}
 
-{soh}Chorus x-krát{eoh}
+{textfill: yellow}
+{textcolor: black}
+Refrén x-krát
+{textcolor}
+{textfill}

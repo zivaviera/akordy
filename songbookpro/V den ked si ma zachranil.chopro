@@ -1,18 +1,16 @@
 {title: V deň keď si ma zachránil}
 
 {comment: Intro}
-[C]OO[Am]O[F]
+[C]OO[Am]O [F]
 
 {start_of_verse: Sloha 1}
-{comment: Sloha 1}
 K[C]ed si ma našiel
 bol som [Am]tak slepý[F]
 [C]bol som hriešny
-v pýche pohlte[Am]ný[Am][F]
+v pýche pohlte[Am]ný [Am][F]
 {end_of_verse}
 
 {start_of_verse: Sloha 2}
-{comment: Sloha 2}
 [G]Z temnoty si ma p[Am]reniesol
 do tvojho [F]svetla
 [G]oči si mi otvoril [Am]a
@@ -20,33 +18,32 @@ milosť spoznať [F]dal
 {end_of_verse}
 
 {start_of_chorus: Refrén}
-{comment: Refrén}
 [Am]V deň keď si ma [F]zachránil[C][G]
 [Am]ukázal si [F]mi domov [C]nebes[G]ký
 ta[Am]nčím spie[F]vam
-srd[C]com mi radosť [G]preteká[Am][F][C][G]
+srd[C]com mi radosť [G]preteká [Am][F][C][G]
 
-{comment: Refrén stop-time}
-[C]v deň keď si ma zachránil
+[C][*refrén stop time]v deň keď si ma zachránil
 {end_of_chorus}
 
 {comment: Instrumental}
-[C]OO[Am]O[F]
+[C]OO[Am]O [F]
 
 {start_of_verse: Sloha 3}
-{comment: Sloha 3}
 T[C]voje svetlo svieti na ceste [Am]mojej[F]
 A [C]tvoja radosť Pane mi vždy silu [Am]dáva[F]
 [G]OO... A[Am] srdce moje ce[F]lé
 [G]OO... Moj [Am]Ježiš
-Už navždy ty [F]máš {comment: F stop}
-
-{soh}Refrén 2x{eoh}
-
+Už navždy ty [F]máš [*F stop]
 {end_of_verse}
 
-{start_of_bridge}
-{comment: Bridge}
+{textfill: yellow}
+{textcolor: black}
+Refrén 2
+{textcolor}
+{textfill}
+
+{start_of_bridge: Bridge}
 [G]Moju [Am]lásku [F]máš
 [G]Moje [Am]srce [F]máš
 [G]Moj [Am]život [F]máš
@@ -54,4 +51,4 @@ Už navždy ty [F]máš {comment: F stop}
 {end_of_bridge}
 
 {comment: Outro}
-[C]OO[Am]O[F]
+[C]OO[Am]O [F]

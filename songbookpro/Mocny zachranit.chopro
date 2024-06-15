@@ -1,12 +1,9 @@
 {title: Mocný zachrániť}
 
 {comment: Intro}
-{sog}
-| D | A | F#m | E |
-{eog}
+[* | ] [D][* / / /] [* | ] [A][* / / /] [* | ] [F#m][* / / /] [* | ] [E][* / / /] [* | ]
 
-{sov}
-{comment: Sloha 1}
+{sov: Sloha 1}
 [D]Každý chce mať s[A]úcit,
 lásku, čo ne[F#m]skončí.
 Nech [E]milosť je na m[D]ne.
@@ -17,12 +14,9 @@ a lásku Spasite[F#m]ľa
 {eov}
 
 {comment: Medzihra}
-{sog}
-| D E | D E |
-{eog}
+[* | ] [D][* / / ][E] [* | ] [D][* / / ][E] [* | ]
 
-{soc}
-{comment: Refrén}
+{soc: Refrén}
 [A]Ježiš, pohne aj ho[E]rami,
 Môj Boh vie vž[D]dy zachrá[A]niť,
 On vie vž[F#m]dy zachrá[E]niť.
@@ -32,8 +26,7 @@ On z mŕtvych vs[D]tal a ži[A]je,
 Ježiš, z [F#m]hrobu vyšiel[E].
 {eoc}
 
-{sov}
-{comment: Sloha 2}
+{sov: Sloha 2}
 [D]Vezmi ma a[A]ký som,
 so všetkými s[F#m]trachmi,
 [E]naplň život môj [D].
@@ -44,12 +37,9 @@ te[E]raz sa Ti dávam.
 {eov}
 
 {comment: Medzihra}
-{sog}
-| D E | D E |
-{eog}
+[* | ] [D][* / / ][E] [* | ] [D][* / / ][E] [* | ]
 
-{sob}
-{comment: Bridge}
+{sob: Bridge}
 [D]Ty si svetlo,[A] nech to svet vid[E]í, s[F#m]pievam
 [D]Tebe slávu,[A]  z mŕtvych si vstal[E] Kráľ, [F#m]Ježiš.
 {eob}

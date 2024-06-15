@@ -1,10 +1,9 @@
 {title: Nech príde tvoja sláva}
 
 {comment: Intro}
-[D][Em][G][A7][D]
+[* | ] [D][* / / / ] [* | ] [Em][* / / / ] [* | ] [G][* / / / ] [* | ] [A7][* / / ][D] [* | ]
 
 {start_of_verse: Sloha 1}
-{comment: Sloha 1}
 Nech [D]príde Tvoja sláva,
 zjav [Em]nám svôj majestát.
 [Em7]Chceme ti úctu vzd[A]ávať,
@@ -12,7 +11,6 @@ v oblaku Tv[Em7]ojej s[A7]lávy st[D]áť.
 {end_of_verse}
 
 {start_of_verse: Sloha 2}
-{comment: Sloha 2}
 Skôr [D]než si stvoril zem,
 Ty si[Em]ma miloval,
 a [Em7]dnes už Pane [A]viem,
@@ -20,13 +18,12 @@ a [Em7]dnes už Pane [A]viem,
 {end_of_verse}
 
 {start_of_chorus: Refrén}
-{comment: Refrén}
-//  Ty si [Bm]ten Boží baránok,
+//: Ty si [Hm]ten Boží baránok,
 posl[F#m]aný od Boha,
 Ty si s[G]lávne z mŕtvych vstal,
 večný živ[D]ot si mi dal.
-Ty si t[Bm]en Boží baránok,
+Ty si t[Hm]en Boží baránok,
 posl[F#m]aný od Boha,
 Ježiš [G]si môj Pán,
-Ty [A]si mi život [A7]dal. //
+Ty [A]si mi život [A7]dal. ://
 {end_of_chorus}

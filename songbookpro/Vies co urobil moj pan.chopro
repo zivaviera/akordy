@@ -1,7 +1,6 @@
 {title: Vieš čo urobil môj Pán}
 
 {start_of_verse: Sloha}
-{comment: Sloha}
 //: [G]vieš čo urobil môj pán,
 [G]vieš čo urobil môj pán,
 [G]uzdravil mi telo, m[G]oju myseľ tiež,
@@ -13,5 +12,5 @@
 {end_of_verse}
 
 {comment: Outro}
-[E7]// t[A7]iež poď a chváľ ho,
-[D7]čo pán ti uči[G]ni[/]l.[E7]//
+[E7]//: t[A7]iež poď a chváľ ho,
+[D7]čo pán ti uči[G]ni[/]l.[E7] ://

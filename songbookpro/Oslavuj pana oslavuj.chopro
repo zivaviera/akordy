@@ -1,15 +1,13 @@
 {title: Oslavuj Pána oslavuj}
 
-{sov}
-{comment: Sloha}
-/ [D]Osla[G]vuj [A]Pána, [D]oslavuj[F],[G]
-[D]oslav[G]uj [A]Pána, [D]oslavuj. /
+{sov: Sloha}
+/: [D]Osla[G]vuj [A]Pána, [D]oslavuj[F],[G]
+[D]oslav[G]uj [A]Pána, [D]oslavuj. :/
 {eov}
 
-{soc}
-{comment: Refrén}
-Ježiš [A]žije, Ježiš [Bm]žije.
-[G]Z mŕtvych [A]vstal a žije [Bm]v nás.
-[G]Ježiš [A]príde, Ježiš [Bm]príde.
+{soc: Refrén}
+Ježiš [A]žije, Ježiš [Hm]žije.
+[G]Z mŕtvych [A]vstal a žije [Hm]v nás.
+[G]Ježiš [A]príde, Ježiš [Hm]príde.
 [G]Tak Pána [A]oslavuj, vždy Ho [D]chváľ.
 {eoc}

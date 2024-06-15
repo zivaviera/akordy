@@ -1,12 +1,9 @@
 {title: Duchu Svätý (KSBratislava)}
 
 {comment: Intro}
-{sog}
-| G | D |
-{eog}
+[* | ] [G][*/ / /] [* | ] [D][*/ / /] [* | ]
 
-{sov}
-{comment: Sloha 1}
+{sov: Sloha 1}
 [D]Nič nestojí viac
 nič sa nevyrovná [G]
 Nič nenahradí
@@ -14,8 +11,7 @@ Tvoju blízskoť [D]Pán
 Ty nádej si.[G]
 {eov}
 
-{sov}
-{comment: Sloha 2}
+{sov: Sloha 2}
 [D]Okúsili sme
 Z lásky najsladšej[G]
 v nej už sme slobodní
@@ -23,8 +19,7 @@ a našej hanby viac [D]niet,
 Ty nádej si.[G]
 {eov}
 
-{soc}
-{comment: Refrén}
+{soc: Refrén}
 [D]Duchu Svätý, vítame ťa tu,
 Tak [G]zaplav nás
 a zmeň a[Em]tmosféru,
@@ -35,12 +30,9 @@ Tak naplň nás [G]
 {eoc}
 
 {comment: Medzihra}
-{sog}
-| D  - | G Em |
-{eog}
+[* | ] [D][*/ / /] [* | ] [G][*/ / ][Em] [* | ]
 
-{sob}
-{comment: Bridge}
+{sob: Bridge}
 [D]Nech stále viac pred Tebou
 bázeň mám
 [G]Dnes túžim zažívať,

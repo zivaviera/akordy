@@ -1,7 +1,6 @@
 {title: V tvojich dvoranách}
 
 {start_of_verse: Sloha 1}
-{comment: Sloha 1}
 [G]v tvojich dvoran[Am]ách túžim stáť,
 [C]túžim [D]stáť pred tvojou [G]tvárou.[Em]
 priveď ma až t[Am]am pred tvoju tvár[C],
@@ -9,7 +8,6 @@ k tebe [D]blízko t[D7]úžim pr[G]isť.
 {end_of_verse}
 
 {start_of_verse: Sloha 2}
-{comment: Sloha 2}
 v[G] tvojich dvora[Am]nách túžim stáť,
 [C]túžim [D]stáť pred tvojou t[G]várou[Em].
 nechcem iba z d[Am]iaľky uctievať,[C]
@@ -17,13 +15,12 @@ k tebe [D]blízko t[D7]úžim p[G]rísť.
 {end_of_verse}
 
 {start_of_chorus: Refrén}
-{comment: Refrén}
 [G]stále keď som [Am]blízk[D7]o,
 tam pred tvojou t[G]várou,[Em7]
 slobodná od hr[Am]iechov,
 [D7]obklopený [G]slávou.[Em7]
 v srdci [Cmaj7]túžim, [D]dnes
-v tvojej [G]prítom[Bm7]nosti s[Em]táť,
+v tvojej [G]prítom[Hm7]nosti s[Em]táť,
 [Am7]k tebe [D]túžim prísť,
 k[Cm7] tebe [F]blízko túžim [G]prísť.
 {end_of_chorus}

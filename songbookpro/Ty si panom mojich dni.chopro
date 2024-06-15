@@ -1,12 +1,10 @@
 {title: Ty si Pánom mojich dní}
 
-{sog}
-| G C | D - | Em C | D - |
-| G C | D - | C - | G - |
-{eog}
+{c: Intro}
+[* | ] [G][* / / ][C] [* | ] [D][* / / / ] [* | ] [Em][* / / ][C] [* | ] [D][* / / / ] [* | ]
+[* | ] [G][* / / ][C] [* | ] [D][* / / / ] [* | ] [C][* / / / ] [* | ] [G][* / / / ] [* | ]
 
-{soc}
-{comment: Refrén}
+{soc: Refrén}
 Ty si [G]Pánom [C]mojich [D]dní,
 ty [Em]napĺ[C]ňaš ma [D]láskou.
 Ty si [G]Pánom [C]mojich [D]dní,
@@ -17,8 +15,7 @@ Ty si [Em]Pánom [C]mojich [D]dní,
 tebe [C]patrím so [D]všetkým, čo [G]mám.
 {eoc}
 
-{sov}
-{comment: Soha}
+{sov: Sloha}
 [Am] Príliš dlho [G]som už slúžil[Am]
 pánom [G]falošným,
 [Am] príliš dlho [G]som bol spúta[D]ný.

@@ -1,7 +1,6 @@
 {title: Tvorca zázrakov (Ja tu čakám)}
 
-{sov}
-{comment: Sloha 1}
+{sov: Sloha 1}
 J[Dm9]a tu - čak[A]ám,  môj [Dm9]život – Ty zme[A]ň,
 keď vod[A#maj7]y sa búria,  prosím, [Gm]zmeň ma T[F]y.[A]
 [Dm9]Tvoj - dot[A]yk ,  ja po[Dm9]trebuje[A]m
@@ -9,8 +8,7 @@ Som tak [A#maj7]zranený, un[Gm]avený
 Hľa[F]dám Tvoju ruku - TVORCA Z[A]ÁZRAKOV
 {eov}
 
-{soc}
-{comment: Refrén 1}
+{soc: Refrén 1}
 [Dm9]  Svät[A]ý, Ty si [Dm]svät[A]ý,
 kt[A#maj7]orý bol, kto[Gm]rý je, a kto[F]rý prí[A]de.
 [Dm9]  Svätý[A], Ty si  [Dm9]svät[A]ý, SPA[A#maj7]SITEĽ, môj L[Gm]EKÁR,
@@ -18,25 +16,26 @@ Som [F]pri nohách Tvojich – TVORCA Z[A]ÁZRAKOV
 {eoc}
 
 {comment: Medzihra}
-[Dm9] [A] [Dm] [A]
-[A#maj7] [Gm] [F] [A]
+[* | ] [Dm9][* / / / ] [* | ] [A][* / / / ] [* | ] [Dm][* / / / ] [* | ] [A][* / / / ] [* | ]
+[* | ] [A#maj7][* / / / ] [* | ] [Gm][* / / / ] [* | ] [F][* / / / ] [* | ] [A][* / / / ] [* | ] 
 
-{sov}
-{comment: Sloha 2}
+{sov: Sloha 2}
 Ja vytrvám, keď Ty žiješ vo mne.
 Prúdy živých vôd, Tvojich,
 ma premenia ... Ó, Ó, Ó
 {eov}
 
-{soh}Refrén 1 2x{eoh}
+{textfill: yellow}
+{textcolor: black}
+Refrén 1 2x
+{textcolor}
+{textfill}
 
 {comment: Medzihra 2}
-[A#maj7] [Gm] [C/E] [F]
-[D7] [Gm] [F]
-[C/E] [A]
+[* | ] [A#maj7][* / / / ] [* | ] [Gm][* / / / ] [* | ] [C/E][* / / / ] [* | ] [F][* / / / ] [* | ]
+[* | ] [D7][* / / / ] [* | ] [Gm][* / / ][F] [* | ] [C/E][* / / / ] [* | ] [A][* / / / ] [* | ]
 
-{soc}
-{comment: Refrén 2}
+{soc: Refrén 2}
 Ty si svätý, Ty si svätý,
 ktorý bol, ktorý je, a ktorý príde.
 Ježiš, drahý Ježiš, SPASITEĽ – ďakujem.

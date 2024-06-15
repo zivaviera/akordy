@@ -1,9 +1,9 @@
 {title: Kto som ja - BBC Worship}
-{comment: intro}
-[Am][C][F]
 
-{sov}
-{comment: Sloha 1}
+{comment: intro}
+[* | ] [Am][*/ ][C] [* | ] [F][*/ /] [* | ]
+
+{sov: Sloha 1}
 Keď [Am]vyslovíš slovo
 [C]stane sa naveky [F]vekov
 [Am]Nečiníš veci
@@ -20,13 +20,11 @@ Tvoje [Am]činy sú zázračné
 {comment: Sloha 1}
 
 {comment: Prechorus}
-
 [Dm]Ty si [Am]Boh
 čo [e]nad všetkým vládne [F]slávne
 [Dm]Ty si [Am]Boh, môj [G]Pán
 
-{soc}
-{comment: Chorus}
+{soc: Refrén}
 Kto som [Dm]ja, môj Boh
 že [Am]pamätáš na mňa [G]stále
 Kto som [Dm]ja, môj Boh
@@ -42,10 +40,9 @@ jak [F]vďaku ti [Am]vyznať [G]smiem
 
 {comment: Prechorus}
 
-{comment: Chorus}
+{comment: Refrén}
 
-{sob}
-{comment: Bridge 2x}
+{sob: Bridge 2x}
 [F]Ďaku[G]jem
 že [Am]pred tebou môžem tu stáť
 [F]Ďaku[G]jem
@@ -56,6 +53,6 @@ jak [F]vďaku ti [Am]vyznať [G]smiem
 [F]Ďaku[G]jem, chcem vyzná[Am]vať
 {eob}
 
-{comment: Chorus}
+{comment: Refrén}
 
 {comment: outro}

@@ -1,22 +1,22 @@
 {title: Spievaj s radosťou}
 
 {start_of_verse: Sloha}
-{comment: Sloha}
-// [E]Spievaj s rados[C#m7]ťou, [A]Boh je tvoja [H7]sila,
+//: [E]Spievaj s rados[C#m7]ťou, [A]Boh je tvoja [H7]sila,
 [E]spievaj s rados[C#m7]ťou, On [A]je pomoc tvoj[H7]a.
 Tak [E]chváľ ho práve [C#m7]dnes,
 za [A]všetko čo ti [H]dává,
-[A]vo víťazstve [H]pô[/]jd[H7]eš ď[E]alej. /[H7]/
+[A]vo víťazstve [H]pô[/]jd[H7]eš ď[E]alej. :// [H7]
 {end_of_verse}
 
-{start_of_verse: Sloha D7}
-{comment: Sloha D7}
+{c: Prechod}
 [D7]
 
-// [G]Spievaj s rados[Em7]ťou, [C]Boh je tvoja [D7]sila,
+{start_of_verse: Sloha}
+//: [G]Spievaj s rados[Em7]ťou, [C]Boh je tvoja [D7]sila,
 [G]spievaj s rados[Em7]ťou, On [C]je pomoc tvoj[D7]a.
 Tak [G]chváľ ho práve [Em7]dnes,
 za [C]všetko čo ti [D7]dává,
-[C]vo víťazstve [D]pô[/]jd[D7]eš ď[G]alej. //
-[Em7] // [Am7]Vo víťazstve [D]pô[/]jd[D7]eš ďa[G]le[/]j [Em7]//   [C]  [/]  [G]
+[C]vo víťazstve [D]pô[/]jd[D7]eš ď[G]alej. ://
+
+[Em7] //: [Am7]Vo víťazstve [D]pôjd[D7]eš ďa[G]le[/]j [Em7] ://   [C]  [/]  [G]
 {end_of_verse}

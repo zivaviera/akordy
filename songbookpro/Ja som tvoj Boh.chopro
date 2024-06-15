@@ -1,7 +1,6 @@
 {title: Ja som Tvoj Boh}
 
-{sov}
-{comment: Sloha}
+{sov: Sloha}
 [C]Ja som tvôj Boh[Em]- čo uzdraví,
 [F]Ja som tvôj [G7]Pán - tvôj [C]lekár.
 svoje [Am7]slovo posielam,
@@ -9,23 +8,25 @@ uzdra[Dm]vím tvoje zranenia,
 [F]Ja som tvôj [G7]Boh, - tvôj [C]lekár.
 {eov}
 
+{comment: Prechod}
 [A7]
 
-{sov}
+{sov: Sloha}
 [D]Ja som tvôj Boh[F#m]- čo uzdraví,
 [G]Ja som tvôj [A7]Pán - tvôj [D]lekár.
-svoje [Bm]slovo posielam,
+svoje [Hm]slovo posielam,
 uzdra[Em]vím tvoje zranenia,
 [G]Ja som tvôj [A7]Boh, - tvôj [D]lekár.
 {eov}
 
-[B7]
+{comment: Prechod}
+[H7]
 
-{sov}
+{sov: Sloha}
 [E]Ja som tvôj Boh[Am7]- čo uzdraví,
-[A]Ja som tvôj [B7]Pán - tvôj [E]lekár.
+[A]Ja som tvôj [H7]Pán - tvôj [E]lekár.
 svoje [C#m7]slovo posielam,
 uzdra[F#m]vím tvoje zranenia,   [C#m7]
-[F#m]Ja som tvôj [B7]Boh, - tvôj [Em]lekár.  [C#m7]
+[F#m]Ja som tvôj [H7]Boh, - tvôj [Em]lekár.  [C#m7]
 {eov}
 

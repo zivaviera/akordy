@@ -1,14 +1,13 @@
 {title: Už navždy}
-{sov}
-{comment: Verse 1}
+
+{sov: Sloha 1}
 S ná[C]dejou vstávante
 Tv[D]oje meno my voláme
 Srd[Hm]cia nám nalaď Ty
 [Em]Kam pôjdeš, tam chceme ísť
 {eov}
 
-{sov}
-{comment: Verse 2}
+{sov: Sloha 2}
 Ten[C]život, čo si v nás zapálil
 Ni[D]k neskryje, nik neskroti
 Do [Hm]ulíc my pôjdeme
@@ -16,19 +15,17 @@ Do [Hm]ulíc my pôjdeme
 {eov}
 
 {comment: Medzihra}
-// Tvoj[C]a láska nezmizne
+//: Tvoj[C]a láska nezmizne
 [D]Navždy tu s nami je
 [G]Vedie ma v živote
-[Em]žiari zo mňa každý deň  //
+[Em]žiari zo mňa každý deň ://
 
-{soc}
-{comment: C}
-// Vo [C]mne si živý, Ty [D]si živý
-[G]  Už navidy v [Em]mojom vnútri //
+{soc: Refrén}
+//: Vo [C]mne si živý, Ty [D]si živý
+[G]  Už navidy v [Em]mojom vnútri. ://
 {eoc}
 
-{sob}
-{comment: Bridge}
+{sob: Bridge}
 Už[C] navždy, už [D]navždy,
 už [Hm]navždy v Tvoje[Em]j láske
 Už[C] navždy, už [D]navždy,

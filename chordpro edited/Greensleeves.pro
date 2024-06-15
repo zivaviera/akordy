@@ -36,7 +36,7 @@ But my heart remains in captivity.
 # You can define special chords in a song
 {define: D 0 X 0 0 2 3 2}
 
-Many songs like this are available on the Internet. 
+Many songs like this are available on the Internet.
 Just search for files with extension pro.
 
 See www.linkesoft.com/songbook for details.

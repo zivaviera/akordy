@@ -1,7 +1,6 @@
 {title: Agnus Dei}
 
-{sov}
-{comment: Verse}
+{sov: Sloha}
 [D]Alleluia, Alleluia
 [D]For the Lord God Almighty reigns
 [D]Alleluia, Alleluia
@@ -9,8 +8,7 @@
 [D]Alleluia
 {eov}
 
-{soc}
-{comment: Refrén}
+{soc: Refrén}
 Ho[D]ly, ho[D]ly 
 Are You [G]Lord, [D]God Al[Bm]migh[A]ty
 Worthy is the [G]Lamb

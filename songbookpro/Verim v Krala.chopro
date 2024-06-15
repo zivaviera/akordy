@@ -1,10 +1,9 @@
 {title: Verím v Kráľa}
 
 {comment: Intro}
-[Am][G]   [Am][G]
+[* | ] [Am][* / / ][G] [* | ] [Am][* / / ][G] [* | ]
 
 {start_of_verse: Sloha 1}
-{comment: Sloha 1}
 Verím v [Am]Kráľa Jeho kráľovstvo je[G] v[Am]ečné,
 vládne milosťou a súdi [G]spravod[Am]livo.
 Počuje každého, keď v ťažko[G]stiach ho [Am]prosí,
@@ -12,7 +11,6 @@ príde mu [F]na pomoc a [Em]zachráni ho v [Am]tiesni.
 {end_of_verse}
 
 {start_of_bridge: Bridge}
-{comment: Bridge}
 a velik[F]ý, je náš Boh,
 najvyš[G]šej [Em7]chvály Je [Am]hoden.
 A veli[F]kosť, Jeho mena,
@@ -20,15 +18,14 @@ nemôž[G]e v[Em7]ystihnutá [Am]byť.
 {end_of_bridge}
 
 {start_of_chorus: Refrén}
-{comment: Refrén}
-/// [Am]Spievaj haleluja ///  [Em7]Ježíš[Am]i
-/// [F]Spievaj haleluja ///  [G]Ježíš[Am]i
-// [F]Náš [Em7]Kráľ je [Am]Ježiš,
-[F]náš [Em7]Kráľ je [Am]Ježiš //
+///: [Am]Spievaj haleluja :///  [Em7]Ježíš[Am]i
+///: [F]Spievaj haleluja :///  [G]Ježíš[Am]i
+
+//: [F]Náš [Em7]Kráľ je [Am]Ježiš,
+[F]náš [Em7]Kráľ je [Am]Ježiš ://
 {end_of_chorus}
 
 {start_of_verse: Sloha 2}
-{comment: Sloha 2}
 [Am]Chcem ťa vyvyšovať [G]Bože môj a [Am]Kráľ môj,
 chcem ti dobrorečiť [G]na veky a [Am]na vždy.
 Každý deň Ti Pane túžim vzd[G]ávať chv[Am]álu,

@@ -1,7 +1,6 @@
 {title: Si slobodný}
 
 {start_of_verse: Sloha 1}
-{comment: Sloha 1}
 [G]Zmätok a lož, bieda a hriech,
 [C7]Trh otrokov, kde - slobody [G]niet.
 [G]Ježiš tam šiel, a prichádzal k nám,
@@ -9,15 +8,13 @@ On [G]prehovoril, tak p[D7]očúv[G]aj.[G7]
 {end_of_verse}
 
 {start_of_chorus: Refrén}
-{comment: Refrén}
-// [C]Si slobodný, ty [G]si slobodný,
+//: [C]Si slobodný, ty [G]si slobodný,
 [G]Ježiš je pán, já [A7]slobodu [D7]mám.
 Tak [G]chválu mu vzdám, na [C]slávu spie[G]vam,
-[G]Ježiš je pán , já [D7]slobodu [G]mám [G7]//
+[G]Ježiš je pán , já [D7]slobodu [G]mám [G7] ://
 {end_of_chorus}
 
 {start_of_verse: Sloha 2}
-{comment: Sloha 2}
 [G]Peklo a smrť, už nemajú moc,
 [C7]sláva Bohu, on povedal d[G]osť.
 [G]Jarmo je preč, je zaplatené,

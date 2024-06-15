@@ -1,56 +1,47 @@
 {title: Už viac nie som strachu otrokom}
 
 {comment: Intro}
-{sog}
-| E G#m | A B E |
-{eog}
+[* | ] [E][* / / ][G#m] [* | ] [A][H][* / ][E] [* | ]
 
-{sov}
-{comment: Sloha 1}
+{sov: Sloha 1}
 Piesňou rozlo[E]míš moje oko[G#m]vy,
-Keď ma [A]dvíhaš [B]v náru[E]čí.
+Keď ma [A]dvíhaš [H]v náru[E]čí.
 Od nepriate[E]ľov oslobode[G#m]ný,
-Viac [A]báť sa [B]nemu[E]sím.
+Viac [A]báť sa [H]nemu[E]sím.
 {eov}
 
-{soc}
-{comment: Refrén}
-/: Už viac [A]nie som [B]strachu otrok[E]om,
-Som [C#m]Božím [B]dieťať[E]om.
-Už viac [A]nie som [B]strachu otrok[E]om,
-Som [C#m]Božím [B]dieťať[E*]om. :/ [C#m]
+{soc: Refrén}
+/: Už viac [A]nie som [H]strachu otrok[E]om,
+Som [C#m]Božím [H]dieťať[E]om.
+Už viac [A]nie som [H]strachu otrok[E]om,
+Som [C#m]Božím [H]dieťať[E*]om. :/ [C#m]
 
-([E]* jen pri opakovon refréne)
+([E]* len pri opakovon refréne)
 {eoc}
 
 {comment: Medzihra}
-{sog}
-| C#m | B | E | A |
-{eog}
+[* | ] [C#m][* / / / ] [* | ] [H][* / / / ] [* | ] [E][* / / / ] [* | ] [A][* / / / ] [* | ]
 
-{sov}
-{comment: Sloha 2}
+{sov: Sloha 2}
 Kým som uzrel [E]svet, ty si ma vyvo[G#m]lil,
-[A]Láskou [B]odve[E]kou.
+[A]Láskou [H]odve[E]kou.
 Znovuzrode[E]ný do tvojej rodi[G#m]ny,
-Tvoja [A]krv už [B]prúdi [E]mnou.
+Tvoja [A]krv už [H]prúdi [E]mnou.
 {eov}
 
 {comment: Medzihra}
-[C#m]Oooo [B]oooo [E]oooo [A]oooo
+[C#m]Oooo [H]oooo [E]oooo [A]oooo
 
-{sob}
-{comment: Bridge}
-[C#m]Rozdelíš [B]more, stredom [E]môžem [A]kráčať
-[C#m]A všetky [B]strachy utop[E]íš
-[C#m]Zachránen[B]ý od smrti [E]spievať [A]smiem
-Som [C#m]Božím [B]dieťať[E]om
+{sob: Bridge}
+[C#m]Rozdelíš [H]more, stredom [E]môžem [A]kráčať
+[C#m]A všetky [H]strachy utop[E]íš
+[C#m]Zachránen[H]ý od smrti [E]spievať [A]smiem
+Som [C#m]Božím [H]dieťať[E]om
 {eob}
 
-{sob}
-{comment: Opakovanie}
-Ja Som [C#m]Božím [B]dieťať[E]om
-Ja Som [C#m]Božím [B]dieťať[E]om
-Ja Som [C#m]Božím [B]dieťať[E]om
-Ja Som [C#m]Božím [B]dieťať[E]om
+{sob: Opakovanie}
+Ja Som [C#m]Božím [H]dieťať[E]om
+Ja Som [C#m]Božím [H]dieťať[E]om
+Ja Som [C#m]Božím [H]dieťať[E]om
+Ja Som [C#m]Božím [H]dieťať[E]om
 {eob}

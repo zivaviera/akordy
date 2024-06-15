@@ -1,21 +1,20 @@
 {title: Nech sa ťa dotkne + Vďaka Ježiš}
-{subtitle: Nech sa ťa dotkne}
 
 {start_of_verse: Sloha}
-{comment: Sloha}
-//  [G]nech sa ťa dotkne,[D] nech ťa o[Em]bjíme[G],
+//: [G]nech sa ťa dotkne,[D] nech ťa o[Em]bjíme[G],
 nech ťa [Am7]uzdraví,
-[D7]nech je len t[G]vôj Pán.[Am] //[D7]
+[D7]nech je len t[G]vôj Pán.[Am] :// [D7]
 {end_of_verse}
 
-{subtitle: Vďaka Ježiš}
-
+{comment: Vďaka Ježiš}
 {start_of_verse: Sloha}
-{comment: Sloha}
-// V[G]ďak[B7]a, Je[Em]žiš,[G7]   [C]ja Ti vzdávam vď[G]aku,
-[Am7]ja Ti vzdávam v[D]ďak[D7]u. //
-[G]Ja Ťa [B7]chvá-l[Em]im, že si za mňa ži[G7]vot dal,
-[C]si môj [C]pán,[G]   [Am]já Ti chválu v[D7]zdám.
-[G]- Ja Ťa [B7]chvá[Em]lim, že si za mňa [G7]život dal,
-//  [C]si môj [C]pán,[G]   [Am]já Ti [D7]chválu v[G]zdám. //
+//: V[G]ďak[H7]a, Je[Em]žiš,[G7]   [C]ja Ti vzdávam vď[G]aku,
+[Am7]ja Ti vzdávam v[D]ďak[D7]u. ://
 {end_of_verse}
+
+{soc: Refrén}
+[G]Ja Ťa [H7]chvá-l[Em]im, že si za mňa ži[G7]vot dal,
+[C]si môj [C]pán,[G]   [Am]já Ti chválu v[D7]zdám.
+[G]- Ja Ťa [H7]chvá[Em]lim, že si za mňa [G7]život dal,
+//: [C]si môj [C]pán,[G]   [Am]já Ti [D7]chválu v[G]zdám. ://
+{eoc}

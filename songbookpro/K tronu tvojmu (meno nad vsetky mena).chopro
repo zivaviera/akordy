@@ -1,27 +1,23 @@
 {title: K trónu Tvojmu (Meno nad všetky mená)}
 
 {comment: Intro}
-{sog}
-| Am G | D   | G |
-{eog}
+[* | ] [Am][*/ / ][G] [* | ] [D][*/ / /] [* | ] [G][*/ / /] [* | ]
 
-{sov}
-{comment: Sloha}
-// K tró[G]nu tvojmu, pri[C]chádzam,
+{sov: Sloha}
+//: K tró[G]nu tvojmu, pri[C]chádzam,
 a o[G]tvorené, srdce [D]dokorán mám.
 Ja [G]zdvíham hlas, uc[C]tievam ťa,
-milu[G]jem ťa Pán, a túžim [C]pred tebou [D]stáť, na[G]veky. //  [C]   [D]
+milu[G]jem ťa Pán,
+a túžim [C]pred tebou [D]stáť, na[G]veky. ://  [C]   [D]
 {eov}
 
-{soc}
-{comment: Refrén}
+{soc: Refrén}
 Skálňam [G]sa, pred [C]tvojou [D]tvárou,
 príjmi [Am7]ma s chvá[G]lou, mo[D]jou.
 Preveľ[G]ká je, [C]tvoja s[D]láva,
 Ježiš [Am7]meno nad, [Em7]všetky [D]mená.    [C]   [G]
 {eoc}
 
-{sob}
-{comment: Bridge}
-// Ježiš [Am7]meno nad, [Em7]všetky [D]mená. // x-krát
+{sob: Bridge}
+//: Ježiš [Am7]meno nad, [Em7]všetky [D]mená. :// x-krát
 {eob}

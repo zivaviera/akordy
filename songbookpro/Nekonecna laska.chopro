@@ -1,12 +1,9 @@
 {title: Nekonečná láska}
 
 {comment: Intro}
-{sog}
-| F#m | E | D | A |
-{eog}
+[* | ] [F#m][* / / / ] [* | ] [E][* / / / ] [* | ] [D][* / / / ] [* | ] [A][* / / / ] [* | ]
 
 {start_of_verse: Sloha 1}
-{comment: Sloha 1}
 [F#m] Než som prehovo[E]ril, všetko si ve[D]del o mne.
 [F#m] Bol si vždy [E]ku mne tak[D]dobrý.
 [F#m] Než som sa naro[E]dil, život si do [D]mňa vdýchol.
@@ -22,29 +19,31 @@ Nie je nič, [F#m]čím by som si ju [E]vedel a do[D]kázal zaslú[A]žiť.
 {end_of_chorus}
 
 {comment: Instrumental}
-{sog}
-| F#m | E | D | A |
-{eog}
+[* | ] [F#m][* / / / ] [* | ] [E][* / / / ] [* | ] [D][* / / / ] [* | ] [A][* / / / ] [* | ]
 
 {start_of_verse: Sloha 2}
-{comment: Sloha 2}
 [F#m] Keď som sa vzdia[E]lil, za mňa si [D]bojoval.
 [F#m] Bol si vždy [E]ku mne tak [D]dobrý.
 [F#m] Keď som bol na [E]dne, vykúpil [D]si ma Ty.
 [F#m] Si ku mne [E]veľmi lá[D]skavý.
 {end_of_verse}
 
-{soh}Refrén{eoh}
+{textfill: yellow}
+{textcolor: black}
+Refrén
+{textcolor}
+{textfill}
 
 {comment: Instrumental}
-{sog}
-| F#m | E | D | A |
-{eog}
+[* | ] [F#m][* / / / ] [* | ] [E][* / / / ] [* | ] [D][* / / / ] [* | ] [A][* / / / ] [* | ]
 
-{start_of_bridge}
-{comment: Bridge}
+{start_of_bridge: Bridge}
 [F#m] Neexistuje [E]hora, cez ktorú by si [D]sa ku mne nedosta[A]l.
 [F#m] Neexistuje [E]hradba, ktorú by si [D]pre mňa nerozbúra[A]l.
 {end_of_bridge}
 
-{soh}Refrén outro{eoh}
+{textfill: yellow}
+{textcolor: black}
+Refrén outro
+{textcolor}
+{textfill}

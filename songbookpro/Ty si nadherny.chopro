@@ -1,8 +1,7 @@
 {title: Ty si nádherný}
 
 {start_of_verse: Sloha 1}
-{comment: Sloha 1}
-Ty si [G]nádherný, Ty si [B7]nádherný,
+Ty si [G]nádherný, Ty si [H7]nádherný,
 Ty si [E7]nádherný, môj Boh a [Am]Pán.
 
 Ty si [Am7]nádherný, Ty si [Cm]nádherný,
@@ -11,8 +10,7 @@ môj Boh a [G]Pán.
 {end_of_verse}
 
 {start_of_verse: Sloha 2}
-{comment: Sloha 2}
-Ty si Boh [G]zázrakov, Ty si Boh [B7]zázrakov,
+Ty si Boh [G]zázrakov, Ty si Boh [H7]zázrakov,
 Ty si Boh [E7]zázrakov, Ty si môj [Am]Pán.
 
 Ty si Boh [Am7]zázrakov, Ty si Boh [Cm7]zázrakov,
@@ -20,11 +18,10 @@ Ty si Boh [G]zázr[Em7]akov, Ty si Boh [Am]zázra[D7]kov,
 Ty si môj [G]Pán
 {end_of_verse}
 
-{sob}
-{comment: Bridge}
+{sob: Bridge}
 si [Am]stvoriteľ v[D]šetkých vecí[G],
 pre Tvoju [Am]vôľu sú, a [D]boli stvorené[G],
-preto Ťa [B]chvália moje [B7]ústa, si môj [Em]Pán,
+preto Ťa [H]chvália moje [H7]ústa, si môj [Em]Pán,
 preto Ťa [A]chvália moje [A7]ústa si môj [D]Pán,
 Ty si môj [D7]Pán.
 {eob}

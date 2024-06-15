@@ -1,21 +1,17 @@
 {title: Zlaté mesto}
 
 {comment: Intro}
-{sog}
-| Em G | D   |
-| Cmaj7 D | Em   |
-{eog}
+[* | ] [Em][* / / ][G] [* | ] [D][* / / / ] [* | ]
+[* | ] [Cmaj7][* / / ][D] [* | ] [Em][* / / / ] [* | ]
 
 {start_of_verse: Sloha 1}
-{comment: Sloha 1}
 [Em]Skoro [D]skončia tvoje [Am]skúšky,
 [Em]Pán ťa [D]hore povo[Am]lá,
-[Cmaj7]Odtiaľ [D]budeš vidieť [G/B]lepšie,
+[Cmaj7]Odtiaľ [D]budeš vidieť [G/H]lepšie,
 [Cmaj7]idúc h[Em]ore, do ne[D]ba.
 {end_of_verse}
 
 {start_of_verse: Sloha 2}
-{comment: Sloha 2}
 Privíta ťa s láskou Otec,
 privolá ťa k sebe ON.
 Pominie sa čakania čas,
@@ -23,7 +19,6 @@ pod kľaknime pred Jeho trón.
 {end_of_verse}
 
 {start_of_chorus: Refrén}
-{comment: Refrén}
 Stretne[Em]me sa skoro,
 v tom [G]Zlatom meste, v [D]Jeruzaléme,
 kde bo[Cmaj7]lesť a naše s[D]ly už nebu[Em]dú.
@@ -32,7 +27,6 @@ chvá[Cmaj7]liť a uctievať [D]Ho tam nave[Em]ky.
 {end_of_chorus}
 
 {start_of_verse: Sloha 3}
-{comment: Sloha 3}
 Silly temna viac nemôžu,
 ani život, ani smrť,
 oddeliť nás nikdy viacej,

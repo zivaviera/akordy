@@ -1,12 +1,9 @@
 {title: Kráľ môjho srdca}
+
 {comment: Intro}
+[* | ] [A][*/ / /] [* | ] [D][*/ / ][A] [* | ] [F#m][*/ / ][E] [* | ] [D][*/ / ][A] [* | ] 
 
-{sog}
-| A  - | D A | F#m E | D A |
-{eog}
-
-{sov}
-{comment: Sloha 1}
+{sov: Sloha 1}
 Nech Kráľ [A]môjho srdca je hor[D]ou kde ute[A]kám,
 pra[F#m]meň vody pre m[E]ňa, óó moj[D]ou pies[A]ňou.
 
@@ -14,13 +11,11 @@ Nech Kráľ [A]mojho srdca je tieň[D]om kde sa scho[A]vám
 ceno[F#m]u za môj ži[E]vot, óó moj[D]ou pies[A]ňou.
 {eov}
 
-{soc}
-{comment: Refrén 4x}
+{soc: Refrén 4x}
 Dobrý [F#m]si, [E]ó, [D]môj [A]Pán.
 {eoc}
 
-{sov}
-{comment: Sloha 2}
+{sov: Sloha 2}
 Nech Kráľ [A]mojho srdca je vet[D]rom v mojich plach[A]tách
 kotv[F#m]ou v morských vln[E]ách óó mo[D]jou pies[A]ňou.
 
@@ -28,8 +23,7 @@ Nech Kráľ [A]mojho srdca je oh[D]ňom v mojich žil[A]ách,
 sil[F#m]ou v každý môj [E]deň, óó mo[D]jou pies[A]ňou.
 {eov}
 
-{sob}
-{comment: Bridge 4x}
+{sob: Bridge 4x}
 [A]    Nie, nikdy nenecháš, [D]nikdy nenecháš spa[A]dnúť ma.
 [F#m]    Nie, [E]nikdy nenecháš, [D]nikdy nenecháš spa[A]dnúť ma.
 {eob}

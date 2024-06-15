@@ -1,7 +1,6 @@
 {title: Každá chvála patrí Bohu}
 
-{sov}
-{comment: Sloha 1}
+{sov: Sloha 1}
 [G]Každá chvála patrí Bohu,
 [Em7]uctievajme ho dnes všetci spolu.
 [Cmaj7]Každá chvála,
@@ -9,8 +8,7 @@
 pat[G]rí Bohu.
 {eov}
 
-{sov}
-{comment: Sloha 2}
+{sov: Sloha 2}
 [G]Znej haleluja nášmu Bohu,
 [Em7]sláva haleluja nášmu Bohu,
 [Cmaj7]každá chvála,
@@ -18,8 +16,7 @@ pat[G]rí Bohu.
 pat[G]rí Bohu.
 {eov}
 
-{soc}
-{comment: Refrén}
+{soc: Refrén}
 [G]Boh spasiteľ,
 [Em7]Boh môj lekár,
 [G]boh záchranca,
@@ -28,5 +25,5 @@ pat[G]rí Bohu.
 [G]Boh spasiteľ,
 [Em7]boh môj lekár,
 [G]boh záchranca,
-// [C]áno [D]je, [C]áno [D]je //
+//: [C]áno [D]je, [C]áno [D]je ://
 {eoc}

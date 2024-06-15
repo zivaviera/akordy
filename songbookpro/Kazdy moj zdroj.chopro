@@ -1,27 +1,39 @@
 {title: Každý môj zdroj}
+
 {comment: Intro}
 [Am]  [Am]  [Am]  [Am]
 
-{sov}
-{comment: Verse}
+{sov: Verse}
 [Am]  [F]  [C]  [C]
 [Am]  [F]  [C]  [C]
 [Am]  [F]  [C]  [C]
 {eov}
 
-{soc}
-{comment: Chorus }
+{soc: Chorus }
 [C]  [C]  [C]  [C]
 [F]  [F]  [F]  [F]
-{soh}2x{eoh}
+{textfill: yellow}
+{textcolor: black}
+2x
+{textcolor}
+{textfill}
+
 {eoc}
 
-{sob}
-{comment: Bridge}
+{sob: Bridge}
 Príď a daj svoj dážď na nás...
 [Am]  [F]  [C]  [C]
 [Am]  [F]  [C]  [C]
-{soh}2x{eoh}
+{textfill: yellow}
+{textcolor: black}
+2x
+{textcolor}
+{textfill}
 {eob}
 
-{soh}REF: 2x{eoh}
+{textfill: yellow}
+{textcolor: black}
+Refrén 2x
+{textcolor}
+{textfill}
+

@@ -1,48 +1,50 @@
 {title: Emmanuel}
+
 {comment: Intro}
-{sog}
-| Bm | A/C# | D   A/C# |
-| Bm | A/C# | D   |
-{eog}
+[* | ] [Hm][*/ / /] [* | ] [A/C#][*/ / /] [* | ] [D][*/ / ][A/C#] [* | ]
+[* | ] [Hm][*/ / /] [* | ] [A/C#][*/ / /] [* | ] [D][*/ / /][* | ]
 
 {start_of_verse: Sloha 1}
-{comment: Sloha 1}
-[D]Svätý, svätý[Bm],  klaniam sa Ti [G]tu,
-si môj[Bm] Pán a K[A]ráľ.
-[D] Haleluj[Bm]a, Ty si prišiel k nám,
-všetko[Bm] nové si d[A]al.
+[D]Svätý, svätý[Hm],  klaniam sa Ti [G]tu,
+si môj[Hm] Pán a K[A]ráľ.
+[D] Haleluj[Hm]a, Ty si prišiel k nám,
+všetko[Hm] nové si d[A]al.
 {end_of_verse}
 
-{soc}
-{comment: Refrén}
+{soc: Refrén}
 [Em] Emmanuel, [A]Kristus [D/F#]Ježiš,
 [G] nikdy ma neopus[A]tíš.
 [Em] Pastier, môj Kráľ, [A]staráš sa [D/F#]o mňa [G]Ty,
- E[A]mma[Bm]nuel.[A/C#]
+ E[A]mma[Hm]nuel.[A/C#]
  {eoc}
 
 {start_of_verse: Sloha 2}
-{comment: Sloha 2}
 Úžasné je – nazval si menom
 nočné hviezdy.
 Miluješ ma, menom voláš ma,
 Ja kráčam za Tebou.
 {end_of_verse}
 
-{soh}Refrén 2x{eoh}
+{textfill: yellow}
+{textcolor: black}
+Refrén 2x
+{textcolor}
+{textfill}
 
 {comment: Medzihra}
-{sog}
-| A/C# Bm | A G |
-{eog}
+[* | ] [A/C#][*/ / ][Hm] [* | ] [A][*/ / ][G] [* | ]
 
-{sob}
-{comment: Bridge}
-[A/C#] Svätý, [Bm]Svätý, [A]Boh Všemo[G]húci,
-[A/C#]nik nie je[Bm] ako [A]Ty[G]
-[Bm][A/C#][D]
+{sob: Bridge}
+{comment}
+[A/C#] Svätý, [Hm]Svätý, [A]Boh Všemo[G]húci,
+[A/C#]nik nie je[Hm] ako [A]Ty[G]
+[Hm][A/C#][D]
 {eob}
 
-{soh}Refrén 3x{eoh}
+{textfill: yellow}
+{textcolor: black}
+Refrén 3x
+{textcolor}
+{textfill}
 
-...[Bm]  Emm[A/C#]anuel, [A/C#] Emman[Bm]uel,  ...
+...[Hm]  Emm[A/C#]anuel, [A/C#] Emman[Hm]uel,  ...

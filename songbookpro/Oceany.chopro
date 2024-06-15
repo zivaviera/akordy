@@ -1,20 +1,16 @@
 {title: Oceány}
 
 {comment: Intro}
-{sog}
-| Bm A/C# | D | A  | G | 
-{eog}
+[* | ] [Hm][* / / ][A/C#] [* | ] [D][* / / / ] [* | ] [A][* / / / ] [* | ] [G][* / / / ] [* | ]
 
 {start_of_verse: Sloha 1}
-{comment: Sloha 1}
-[Bm]Pozývaš ma [A/C#]do nezn[D]áma
+[Hm]Pozývaš ma [A/C#]do nezn[D]áma
 prec[A]hádzať sa po vo[G]dách
-[Bm]Tam ťa nájdem[A/C#] napriek [D]búrkam
+[Hm]Tam ťa nájdem[A/C#] napriek [D]búrkam
 zvlá[A]dnem stáť na hlbin[G]ách
 {end_of_verse}
 
-{soc}
-{comment: Refrén}
+{soc: Refrén}
 [G]Na Teba [D]Ježiš zavol[A]ám
 [G]ku Tebe [D]svoj zrak upi[A]eram
 [G]len Tvoja n[D]áruč pokoj[A]dá
@@ -22,44 +18,35 @@ Tvoja s[G]om a [A]Ty si [Bm]môj
 {eoc}
 
 {comment: Medzihra}
-{sog}
-| Bm A/C# | D | A  | G | 
-{eog}
+[* | ] [Hm][* / / ][A/C#] [* | ] [D][* / / / ] [* | ] [A][* / / / ] [* | ] [G][* / / / ] [* | ]
 
 {start_of_verse: Sloha 2}
-{comment: Sloha 2}
-[Bm]Milosťou ma c[A/C#]hrániš v [D]búrkach
+[Hm]Milosťou ma c[A/C#]hrániš v [D]búrkach
 s is[A]totou ma sprevá[G]dzaš
-[Bm]Napriek môjmu s[A/C#]trachu z [D]pádov
+[Hm]Napriek môjmu s[A/C#]trachu z [D]pádov
 vies[A]ť ma smieš, Ty nez[G]lyháš
 {end_of_verse}
 
 {comment: Medzihra}
-{sog}
-| Bm A/C# | D | A  | G | 
-{eog}
+[* | ] [Hm][* / / ][A/C#] [* | ] [D][* / / / ] [* | ] [A][* / / / ] [* | ] [G][* / / / ] [* | ]
 
 {comment: Inštrumentál}
-{sog}
-| Bm | G | D  | A | 
-{eog}
+[* | ] [Hm][* / / / ] [* | ] [G][* / / / ] [* | ] [D][* / / / ] [* | ] [A][* / / / ] [* | ]
 
-{sob}
-{comment: Bridge}
-// [Bm]Zaveď ma na miesta
+{sob: Bridge}
+//: [Hm]Zaveď ma na miesta
 [G]bezhraničnej viery
 chcem [D]kráčať nad vodami
 tam [A]kam ma zavoláš.
 
-[Bm]Vezmi hlbšie, než sa
+[Hm]Vezmi hlbšie, než sa
 [G]odvažujem prosiť
 len [D]v Tvojej prítomnosti
-moja [A]viera narastá. //
+moja [A]viera narastá. ://
 {eob}
 
-{sob}
-{comment: Bridge 2}
-// [G]Zaveď ma na miesta
+{sob: Bridge 2}
+//: [G]Zaveď ma na miesta
 [D]bezhraničnej viery
 chcem [A]kráčať nad vodami
 tam [Em]kam ma zavoláš
@@ -67,23 +54,21 @@ tam [Em]kam ma zavoláš
 [G]Vezmi hlbšie, než sa
 [D]odvažujem prosiť
 len [A]v Tvojej prítomnosti
-moja [Em]viera narastá. //
+moja [Em]viera narastá. ://
 {eob}
 
 {comment: Instrumental}
-{sog}
-| Bm A | D | A  | Em | 
-{eog}
+[* | ] [Hm][* / / ][A] [* | ] [D][* / / / ] [* | ] [A][* / / / ] [* | ] [Em][* / / / ] [* | ]
 
-{comment: Bridge 3}
-// [Bm]Zaveď ma na miesta
+{sob: Bridge 3}
+//: [Hm]Zaveď ma na miesta
 [A]bezhraničnej viery
 chcem [D]kráčať nad vodami
 tam [A]kam ma zavoláš.
 
-[Bm]Vezmi hlbšie, než sa
+[Hm]Vezmi hlbšie, než sa
 [A]odvažujem prosiť
 len [D]v Tvojej prítomnosti
-moja [Em]viera narastá. //
+moja [Em]viera narastá. ://
 {eob}
 

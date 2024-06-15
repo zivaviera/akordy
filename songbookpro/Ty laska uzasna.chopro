@@ -1,10 +1,9 @@
-{title: Pane príď - Galanta}
+{title: Pane príď}
+
 {comment: Intro}
-[C#m][A][E]
-[C#m][A][E]
+[* | ] [C#m][* / / ][A] [* | ] [E][* / / / ] [* | ]
 
 {start_of_chorus: Refrén}
-{comment: Refrén}
 Pane pr[C#m]íď, Tvoja sl[A]áva [E]svieť
 prosíme,[C#m] zošli s[A]voj oh[E]eñ
 Láska tá[C#m], čo prem[A]áha st[E]rach
@@ -12,19 +11,25 @@ nech mení[C#m] atmosf[A]éru v [E]nás
 {end_of_chorus}
 
 {start_of_verse: Sloha}
-{comment: Sloha}
 Ty, láska [A]úzasn[C#m]á
 zostúpil si na Zem, [A]život [E]dal
 Hrob je prázdny, nádej [A]prišla k [C#m]nám
 smrť si porazil, milosť vl[A]ádu [E]má
 {end_of_verse}
 
-{soh}Refrén 1x{eoh}
+{textfill: yellow}
+{textcolor: black}
+Refrén 1x
+{textcolor}
+{textfill}
 
-{soh}Sloha 1x{eoh}
+{textfill: yellow}
+{textcolor: black}
+Sloha 1x
+{textcolor}
+{textfill}
 
-{start_of_bridge}
-{comment: Bridge}
+{start_of_bridge: Bridge}
 [E]Dlžíme mu to, čo nám dal
 hanbu [C#m7]aj náš hriech on zmazal
 reťaze[A]smrti polámal
@@ -39,7 +44,12 @@ mení atmostéru v [E]nás
 Ty meñ atmoféru V nás
 óóó
 
-{soh}Refrén 2x{eoh}
+{textfill: yellow}
+{textcolor: black}
+Refrén 2x
+{textcolor}
+{textfill}
+{eob}
 
 {comment: outro}
 [E]Óóó

@@ -1,15 +1,13 @@
 {title: K Božej chvále}
 
 {start_of_verse: Sloha 1}
-{comment: Sloha 1}
 K Božej [Dm]chvále, dvíham svôj [C]hlas,
 Ty si môj [F]štít, pevnosť a [Dm7]hrad.
 Si [Gm]skalou, spase[Dm]nia,
-hal[Gm]eluj[Dm]a,[Gm][Dm]
+hal[Gm]eluj[Dm]a, [Gm] [Dm]
 {end_of_verse}
 
 {start_of_verse: Sloha 2}
-{comment: Sloha 2}
 K Božej[Dm] chvále, dvíham svôj [C]hlas,
 Ty si môj [F]štít, pevnosť a [Dm7]hrad.
 Si [Gm]skalou, spase[A7]nia
@@ -17,9 +15,8 @@ haleluj[Dm]a, hal[A7]eluja[Dm].
 {end_of_verse}
 
 {start_of_chorus: Refrén}
-{comment: Refrén}
-//  [Dm]haleluja, [Gm]haleluja,
+//: [Dm]haleluja, [Gm]haleluja,
 h[C]aleluja, h[F]alelu[A7]ja.
 [Dm]haleluja, ha[Gm]leluja,
-- s[A]láva J[A7]ežiš[Dm]i. //
+- s[A]láva J[A7]ežiš[Dm]i. ://
 {end_of_chorus}

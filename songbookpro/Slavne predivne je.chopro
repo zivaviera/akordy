@@ -1,7 +1,6 @@
 {title: Slávne predivné je}
 
 {start_of_verse: Sloha 1}
-{comment: Sloha 1}
 [Dm]slávne [Gm7]predivné je, [Dm]dielo t[Gm7]voje večné
 [F]ty náš [C]všemohúc[F]i stvo[A]ri[A7]teľ.
 [Dm]len ty [Gm]sám si svätý,
@@ -9,21 +8,18 @@
 {end_of_verse}
 
 {start_of_bridge: Bridge}
-{comment: Bridge}
 [Gm]kto by sa, [Dm]teba nebál, [Gm]kto by ťa ne[Dm]slávil,
 [Gm]veď len ty,- s[Dm]ám si svätý,
 [Gm]ty,- [Gm7]ty len [A7]sám.
 {end_of_bridge}
 
 {start_of_verse: Sloha 2}
-{comment: Sloha 2}
 [Dm]všetky [Gm]kráľovstvá raz, c[Dm]hváliť b[Gm]udú teba,
 [Dm]lebo [C]veľká je t[F]voja s[A7]láva,
 [Dm]hale[Gm]luja, [Dm]hale[Gm]luja, [Bb]ó hale[A7]luja am[Dm]en.
 {end_of_verse}
 
 {start_of_chorus: Refrén}
-{comment: Refrén}
 dnes tvôj ľud [A]čaká, že prideš [Dm]opäť na zem,
 čakáme s [C]túžbou, na nový [F]jeruzalem,
 a tvoju [Gm]radosť, nevezme [Dm]nikto od nás,
@@ -31,4 +27,4 @@ radosť [A]večnú [A7]daroval si [Dm]nám.
 {end_of_chorus}
 
 {comment: Instrumental 2x}
-[A] [Dm] [C] [F] [Gm] [Dm] [A] [A7] [Dm]
+[* | ] [A][* / / ][Dm] [* | ] [C][* / / ][F] [* | ] [Gm][* / / ][Dm] [* | ] [A][* / ][A7][* / ][Dm] [* | ]

@@ -1,30 +1,25 @@
 {title: Všetka sláva (Sláva patrí iba Pánovi)}
 
 {comment: Intro}
-{sog}
-| Am | F C G/B |
-| Am | F E Am |
-{eog}
+[* | ] [Am][* / / / ] [* | ] [F] [C] [G/H][* | ]
+[* | ] [Am][* / / / ] [* | ] [F] [E] [Am][* | ]
 
-{sov}
-{comment: Sloha 1}
-// [Am]Sláva patrí iba Pánovi
-[F]Sláva patrí iba [C]Páno[G/B]vi
+{sov: Sloha 1}
+//: [Am]Sláva patrí iba Pánovi
+[F]Sláva patrí iba [C]Páno[G/H]vi
 [Am]Sláva patrí iba Pánovi
-Všetka [F]sláva [E]Mu pat[Am]rí. //
+Všetka [F]sláva [E]Mu pat[Am]rí. ://
 {eov}
 
-{soc}
-{comment: Refrén}
-// [Am]Z Neho, pre Neho a cez Neho
-[F]všetko stvore[C]né [G/B]je.
+{soc: Refrén}
+//: [Am]Z Neho, pre Neho a cez Neho
+[F]všetko stvore[C]né [G/H]je.
 [Am]Z Neho, pre Neho a cez Neho
-Nech Mu [F]sláva [E]znie na[Am]veky //
+Nech Mu [F]sláva [E]znie na[Am]veky. ://
 {eoc}
 
 
-{sov}
-{comment: Sloha 2}
+{sov: Sloha 2}
 Vzdajme vďaku nášmu Pánovi
 Vzdajme vďaku nášmu Pánovi
 Vzdajme vďaku nášmu Pánovi
@@ -33,8 +28,7 @@ Naša vďaka Mu patrí.
 
 {comment: Refrén 2x}
 
-{sov}
-{comment: Sloha 3}
+{sov: Sloha 3}
 Príde deň, kedy sa vráti späť.
 Príde deň, kedy sa vráti späť.
 Príde deň, kedy sa vráti späť.

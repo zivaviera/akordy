@@ -1,7 +1,6 @@
 {title: Nádej mám}
 
 {start_of_verse: Sloha 1}
-{comment: Sloha 1}
 [D]Ja v pokore sa skláňam, pred Tebou môj Pán a Kráľ -
 nádej [D]mám![Gmaj7][D]
 [A]Tvoja láska je úžasná, m[A6/4]ôj hl[A]as k uctievaniu dvíha -
@@ -9,7 +8,6 @@ nádej [D]mám![Gmaj7][D]
 {end_of_verse}
 
 {start_of_verse: Sloha 2}
-{comment: Sloha 2}
 [D]Všetko, čo môžem dať, je chvála,
 všetko, čo [D7]môžem dať, je vďaka - nádej má[G]m.[G6/4][G]
 Cítim,[D] tvoja ruka sa ma dotýka, [A]Duch Svätý pri[A7]chádza,
@@ -17,36 +15,32 @@ Cítim,[D] tvoja ruka sa ma dotýka, [A]Duch Svätý pri[A7]chádza,
 {end_of_verse}
 
 {start_of_chorus: Refrén}
-{comment: Refrén}
 Nádej [D]mám, B[A6/4]oh je [G]Pán, Jeho [D]slávu uzrie celá na[A6/4]ša zem[A].
 Už [A7]prichá[D]dza, s[A6/4]lávy K[G]ráľ,
 ja v [Em7]pokore sa [D]skláňam pred Teb[G]ou,
-- môj[Gmaj7] majes[A7]tátny P[D]án.  [B7](prechod)
+- môj[Gmaj7] majes[A7]tátny P[D]án.  [H7](prechod)
 {end_of_chorus}
 
 {start_of_verse: Sloha 1}
-{comment: Sloha 1}
 [E]Ja v pokore sa skláňam, pred Tebou môj Pán a Kráľ -
 nádej [E]mám![Amaj7][E]
-[B]Tvoja láska je úžasná, m[B6/4]ôj hl[B]as k uctievaniu dvíha -
+[H]Tvoja láska je úžasná, m[H6/4]ôj hl[H]as k uctievaniu dvíha -
 nádej [E]mám![Amaj7][E]
 {end_of_verse}
 
 {start_of_verse: Sloha 2}
-{comment: Sloha 2}
 [E]Všetko, čo môžem dať, je chvála,
 všetko, čo [E7]môžem dať, je vďaka - nádej m[A]ám.[A6/4]      [A]
-Cítim, [E]tvoja ruka sa ma dotýka, [B]Duch Svätý prichádza,
-[B7]nádej [E]mám![Amaj7][E]
+Cítim, [E]tvoja ruka sa ma dotýka, [H]Duch Svätý prichádza,
+[H7]nádej [E]mám![Amaj7][E]
 {end_of_verse}
 
 {start_of_chorus: Refrén}
-{comment: Refrén}
-Nádej [E]mám, Boh je P[A]án, Jeho [E]slávu uzrie celá n[B6/4]aša [B]
-Už [B7]prichá[E]dza, s[B6/4]lávy K[A]ráľ,
-ja v [F#m7]pokore sa s[E]kláňam pred Te[A]bou – môj [Amaj7]majest[B7]átny [E]Pán.
+Nádej [E]mám, Boh je P[A]án, Jeho [E]slávu uzrie celá n[H6/4]aša [H]
+Už [H7]prichá[E]dza, s[H6/4]lávy K[A]ráľ,
+ja v [F#m7]pokore sa s[E]kláňam pred Te[A]bou – môj [Amaj7]majest[H7]átny [E]Pán.
 {end_of_chorus}
 
 {comment: Outro}
-//  JJa[F#m7] v pokore sa[E] skláňam pred T[A]ebou, // x3
-    môj [F#m7]majes[B7]tátny P[Amaj7]án.[F#m7][E]
+//: Ja[F#m7] v pokore sa[E] skláňam pred T[A]ebou, :// x3
+    môj [F#m7]majes[H7]tátny P[Amaj7]án.[F#m7][E]

@@ -1,22 +1,21 @@
 {title: Ježiš je živý}
 
 {start_of_verse: Sloha}
-{comment: Sloha}
-//  [D]Ježiš je živý, kameň [G]je odvale[D]ný,
-[D]Ježiš je ž[Bm7]ivý, v hro[Em]be už nelež[A7]í.
+//:  [D]Ježiš je živý, kameň [G]je odvale[D]ný,
+[D]Ježiš je ž[Hm7]ivý, v hro[Em]be už nelež[A7]í.
 [D]Ježiš je ž[D7]ivý, spievajú v[G]šetci anjel[D]i,
-[Bm7]celá zem sa [Em]veselí[A7] //[D]
+[Hm7]celá zem sa [Em]veselí[A7] ://[D]
 {end_of_verse}
 
-{start_of_verse: Sloha}
-{comment: Sloha}
-[B7]
+{comment: Prechod}
+[H7]
 
-[E]//  Ježiš je živý, kameň [A]je odvale[E]ný,
-[E]Ježiš je ži[C#m7]vý, v hro[F#m]be už nele[B7]ží.
+{start_of_verse: Sloha}
+[E]//:  Ježiš je živý, kameň [A]je odvale[E]ný,
+[E]Ježiš je ži[C#m7]vý, v hro[F#m]be už nele[H7]ží.
 [E]Ježiš je ži[E7]vý, spievajú v[A]šetci anje[E]li,
-[C#m7]celá zem sa [F#m]veselí[B7]  /[E]/
+[C#m7]celá zem sa [F#m]veselí[H7]  [E] ://
 {end_of_verse}
 
 {comment: Outro}
-/[C#m7]/     [F#m]celá zem sa [B]ve[B7]sel[E]í //[C#m7]
+[C#m7]//     [F#m]celá zem sa [H]ve[H7]sel[E]í // [C#m7]
