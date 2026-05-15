@@ -1,6 +1,27 @@
 {title: Nádej mám}
 
 {start_of_verse: Sloha 1}
+[C]Ja v pokore sa skláňam, pred Tebou môj Pán a Kráľ -
+nádej [C]mám![Fmaj7][C]
+[G]Tvoja láska je úžasná, m[G6/4]ôj hl[G]as k uctievaniu dvíha -
+nádej [C]mám![Fmaj7][C]
+{end_of_verse}
+
+{start_of_verse: Sloha 2}
+[C]Všetko, čo môžem dať, je chvála,
+všetko, čo [C7]môžem dať, je vďaka - nádej má[F]m.[F6/4][F]
+Cítim,[C] tvoja ruka sa ma dotýka, [G]Duch Svätý pri[G7]chádza,
+[G7]nádej [C]mám![Fmaj7][C]
+{end_of_verse}
+
+{start_of_chorus: Refrén}
+Nádej [C]mám, B[G6/4]oh je [F]Pán, Jeho [C]slávu uzrie celá na[G6/4]ša zem[G].
+Už [G7]prichá[C]dza, s[G6/4]lávy K[F]ráľ,
+ja v [Dm7]pokore sa [C]skláňam pred Teb[F]ou,
+- môj[Fmaj7] majes[G7]tátny P[C]án.  [A7](prechod)
+{end_of_chorus}
+
+{start_of_verse: Sloha 1}
 [D]Ja v pokore sa skláňam, pred Tebou môj Pán a Kráľ -
 nádej [D]mám![Gmaj7][D]
 [A]Tvoja láska je úžasná, m[A6/4]ôj hl[A]as k uctievaniu dvíha -
@@ -9,38 +30,17 @@ nádej [D]mám![Gmaj7][D]
 
 {start_of_verse: Sloha 2}
 [D]Všetko, čo môžem dať, je chvála,
-všetko, čo [D7]môžem dať, je vďaka - nádej má[G]m.[G6/4][G]
-Cítim,[D] tvoja ruka sa ma dotýka, [A]Duch Svätý pri[A7]chádza,
+všetko, čo [D7]môžem dať, je vďaka - nádej m[G]ám.[G6/4]      [G]
+Cítim, [D]tvoja ruka sa ma dotýka, [A]Duch Svätý prichádza,
 [A7]nádej [D]mám![Gmaj7][D]
 {end_of_verse}
 
 {start_of_chorus: Refrén}
-Nádej [D]mám, B[A6/4]oh je [G]Pán, Jeho [D]slávu uzrie celá na[A6/4]ša zem[A].
+Nádej [D]mám, Boh je P[G]án, Jeho [D]slávu uzrie celá n[A6/4]aša [A]
 Už [A7]prichá[D]dza, s[A6/4]lávy K[G]ráľ,
-ja v [Em7]pokore sa [D]skláňam pred Teb[G]ou,
-- môj[Gmaj7] majes[A7]tátny P[D]án.  [H7](prechod)
-{end_of_chorus}
-
-{start_of_verse: Sloha 1}
-[E]Ja v pokore sa skláňam, pred Tebou môj Pán a Kráľ -
-nádej [E]mám![Amaj7][E]
-[H]Tvoja láska je úžasná, m[H6/4]ôj hl[H]as k uctievaniu dvíha -
-nádej [E]mám![Amaj7][E]
-{end_of_verse}
-
-{start_of_verse: Sloha 2}
-[E]Všetko, čo môžem dať, je chvála,
-všetko, čo [E7]môžem dať, je vďaka - nádej m[A]ám.[A6/4]      [A]
-Cítim, [E]tvoja ruka sa ma dotýka, [H]Duch Svätý prichádza,
-[H7]nádej [E]mám![Amaj7][E]
-{end_of_verse}
-
-{start_of_chorus: Refrén}
-Nádej [E]mám, Boh je P[A]án, Jeho [E]slávu uzrie celá n[H6/4]aša [H]
-Už [H7]prichá[E]dza, s[H6/4]lávy K[A]ráľ,
-ja v [F#m7]pokore sa s[E]kláňam pred Te[A]bou – môj [Amaj7]majest[H7]átny [E]Pán.
+ja v [Em7]pokore sa s[D]kláňam pred Te[G]bou – môj [Gmaj7]majest[A7]átny [D]Pán.
 {end_of_chorus}
 
 {comment: Outro}
-//: Ja[F#m7] v pokore sa[E] skláňam pred T[A]ebou, :// x3
-    môj [F#m7]majes[H7]tátny P[Amaj7]án.[F#m7][E]
+//: Ja[Em7] v pokore sa[D] skláňam pred T[G]ebou, :// x3
+    môj [Em7]majes[A7]tátny P[Gmaj7]án.[Em7][D]

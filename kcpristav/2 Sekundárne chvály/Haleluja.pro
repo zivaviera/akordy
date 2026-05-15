@@ -1,0 +1,9 @@
+{title: Haleluja}
+
+/: [G]Haleluja, hale[C]luja, hale[D]luja, hale[C]luja. :/ [G]
+
+[G]Ježiš žije, hale[C]luja...
+[G]Ježiš príde, hale[C]luja...
+[G]Boh je láska, hale[C]luja...
+
+{tag: Extra krátka}
