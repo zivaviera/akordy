@@ -1,17 +1,26 @@
 {title: Ty si Boh úžasný}
-{key: F}
+{key: E}
 
-{title: Ty si Boh úžasný}
-
-{start_of_verse: Sloha}
+{start_of_verse: Sloha 1}
+{textcolor: #D32F2F}
+Spolu
+{textcolor}
 [F]Ty si Boh úžasný, ty si Boh [Cm7]nádherný,
 Ty [A#maj7]vládneš nad všet[Gm]kým, svojím [F]Duchom prítom[C]ným.
+{end_of_verse}
 
+{start_of_verse: Sloha 2}
+{textcolor: #D32F2F}
+Spolu
+{textcolor}
 Tvoja [F]láska nekončí, ale [Am7]vždy nám odpustí,
 ja Ťa [A#maj7]chváim Pane [Gm7]môj, ty si [F]Duchom prítom[C]ný.
 {end_of_verse}
 
 {start_of_chorus: Refrén}
+{textcolor: #D32F2F}
+K + L
+{textcolor}
 [A7]Uzdra[Dm7]vuješ strápených, podzvi[A#maj7]huješ skrúšených,
 Tvoje [Gm7]slovo, je naším lekárs[A#]tvom.
 
@@ -21,4 +30,11 @@ len tým [A#]najlep[C]ším, [C]len tým [Gm7]najlep[C]ším. [pause]
 {end_of_chorus}
 
 {comment: Outro}
+{textcolor: #D32F2F}
+Spolu
+{textcolor}
 Len tým [C]naj [Dm7]naj [Gm7]naj-[C]lep[F]ším.
+
+{textcolor: #757575}
+Poradie: S1 – S2 – R – S1 – S2 – R – O
+{textcolor}

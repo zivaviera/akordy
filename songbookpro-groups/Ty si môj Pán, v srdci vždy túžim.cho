@@ -1,12 +1,17 @@
 {title: Ty si môj Pán, v srdci vždy túžim}
 {key: G}
 
-{title: Ty si môj Pán, v srdci vždy túžim}
-
-{comment: Intro}
-[Am7] [C] [D]
+{comment: Intro · 2x}
+{textcolor: #D32F2F}
+Gitara
+{textcolor}
+[Am7 | C | D | D]
 
 {start_of_verse: Sloha}
+{textcolor: #D32F2F}
+1x K
+2x K + L
+{textcolor}
 [G2]Ty si môj [C]Pán,  [Am]
 v [D7]srdci vždy [C]tú[G]žim,
 [Em]   vidieť Tvoju [Am7]tvár,  [D7]
@@ -14,8 +19,22 @@ Tvoj oblak [C]slá[G]vy.    [G | D | Em]
 {end_of_verse}
 
 {start_of_chorus: Refrén}
+{textcolor: #D32F2F}
+Spolu
+{textcolor}
 [(Em)]Volám môj [Am7]Pán, môj [D]Boh,
 cesta, prav[B4/B]da, ži[B7]vot[Em7],
 si úžas[Am7]ný, láskav[D4 / D]ý,
 môj Pán si [G]Ty.  [C  |  G]
 {end_of_chorus}
+
+{comment: Outro}
+{textcolor: #D32F2F}
+Spolu
+{textcolor}
+[(G)]si úžas[Am7]ný, láskav[D4 / D]ý,
+môj Pán si [G]Ty.  [C  |  G]
+
+{textcolor: #757575}
+Poradie: S – R - S – R - S – R - O
+{textcolor}
